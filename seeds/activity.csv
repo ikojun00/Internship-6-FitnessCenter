@@ -1,0 +1,4000 @@
+1,Yoga,6.00,12
+2,Strength training,5.00,10
+3,Strength training,10.00,19
+4,Cardio,5.00,14
+5,Yoga,11.00,16
+6,Dance,9.00,12
+7,Injury rehabilitation,15.00,13
+8,Strength training,5.00,13
+9,Yoga,11.00,13
+10,Yoga,8.00,16
+11,Yoga,12.00,15
+12,Injury rehabilitation,11.00,19
+13,Cardio,8.00,19
+14,Injury rehabilitation,10.00,18
+15,Injury rehabilitation,7.00,10
+16,Injury rehabilitation,12.00,16
+17,Dance,13.00,17
+18,Strength training,7.00,10
+19,Dance,10.00,10
+20,Strength training,9.00,14
+21,Yoga,15.00,11
+22,Dance,13.00,13
+23,Yoga,10.00,16
+24,Cardio,7.00,17
+25,Injury rehabilitation,14.00,11
+26,Strength training,9.00,12
+27,Yoga,9.00,17
+28,Injury rehabilitation,10.00,15
+29,Yoga,13.00,13
+30,Yoga,6.00,17
+31,Cardio,12.00,19
+32,Yoga,14.00,20
+33,Strength training,10.00,11
+34,Cardio,5.00,18
+35,Strength training,11.00,10
+36,Yoga,13.00,18
+37,Injury rehabilitation,9.00,20
+38,Dance,15.00,17
+39,Strength training,13.00,17
+40,Cardio,14.00,11
+41,Yoga,15.00,17
+42,Strength training,9.00,11
+43,Cardio,14.00,20
+44,Strength training,13.00,14
+45,Cardio,8.00,18
+46,Yoga,12.00,15
+47,Yoga,6.00,17
+48,Injury rehabilitation,8.00,14
+49,Dance,6.00,13
+50,Dance,11.00,10
+51,Dance,12.00,11
+52,Yoga,12.00,18
+53,Cardio,11.00,18
+54,Yoga,13.00,11
+55,Cardio,10.00,13
+56,Cardio,8.00,20
+57,Dance,13.00,15
+58,Cardio,15.00,18
+59,Dance,11.00,12
+60,Dance,15.00,19
+61,Injury rehabilitation,11.00,20
+62,Strength training,12.00,11
+63,Dance,13.00,20
+64,Yoga,15.00,20
+65,Yoga,8.00,15
+66,Injury rehabilitation,13.00,17
+67,Cardio,12.00,15
+68,Injury rehabilitation,10.00,11
+69,Cardio,5.00,16
+70,Injury rehabilitation,14.00,10
+71,Injury rehabilitation,8.00,18
+72,Strength training,11.00,18
+73,Strength training,9.00,13
+74,Yoga,5.00,15
+75,Yoga,11.00,10
+76,Injury rehabilitation,8.00,12
+77,Strength training,12.00,20
+78,Cardio,7.00,13
+79,Cardio,11.00,20
+80,Injury rehabilitation,13.00,11
+81,Injury rehabilitation,12.00,11
+82,Strength training,14.00,18
+83,Injury rehabilitation,7.00,12
+84,Strength training,8.00,10
+85,Dance,7.00,19
+86,Yoga,10.00,17
+87,Injury rehabilitation,10.00,16
+88,Dance,11.00,17
+89,Strength training,13.00,16
+90,Yoga,7.00,12
+91,Strength training,9.00,12
+92,Dance,11.00,12
+93,Cardio,8.00,19
+94,Injury rehabilitation,6.00,16
+95,Strength training,15.00,19
+96,Cardio,14.00,18
+97,Strength training,10.00,18
+98,Strength training,8.00,17
+99,Strength training,8.00,16
+100,Injury rehabilitation,7.00,13
+101,Strength training,15.00,17
+102,Cardio,10.00,14
+103,Yoga,5.00,11
+104,Cardio,13.00,14
+105,Cardio,5.00,12
+106,Yoga,9.00,12
+107,Dance,5.00,15
+108,Injury rehabilitation,5.00,10
+109,Injury rehabilitation,9.00,10
+110,Injury rehabilitation,9.00,19
+111,Yoga,14.00,12
+112,Dance,6.00,13
+113,Dance,6.00,14
+114,Injury rehabilitation,11.00,12
+115,Dance,12.00,14
+116,Dance,9.00,18
+117,Injury rehabilitation,8.00,10
+118,Cardio,6.00,19
+119,Yoga,11.00,16
+120,Cardio,10.00,12
+121,Strength training,5.00,12
+122,Injury rehabilitation,6.00,12
+123,Strength training,15.00,11
+124,Yoga,5.00,12
+125,Dance,12.00,17
+126,Strength training,7.00,11
+127,Dance,12.00,17
+128,Strength training,15.00,11
+129,Strength training,13.00,10
+130,Strength training,8.00,20
+131,Yoga,13.00,11
+132,Strength training,12.00,10
+133,Yoga,14.00,14
+134,Dance,9.00,13
+135,Injury rehabilitation,13.00,17
+136,Injury rehabilitation,15.00,16
+137,Strength training,6.00,20
+138,Yoga,12.00,20
+139,Yoga,5.00,19
+140,Injury rehabilitation,14.00,17
+141,Dance,10.00,13
+142,Dance,11.00,20
+143,Strength training,6.00,10
+144,Yoga,14.00,17
+145,Yoga,13.00,13
+146,Dance,6.00,10
+147,Strength training,13.00,20
+148,Strength training,5.00,10
+149,Injury rehabilitation,10.00,17
+150,Dance,6.00,17
+151,Strength training,11.00,15
+152,Dance,14.00,12
+153,Yoga,6.00,15
+154,Injury rehabilitation,13.00,13
+155,Cardio,15.00,10
+156,Yoga,12.00,13
+157,Yoga,7.00,13
+158,Yoga,10.00,19
+159,Injury rehabilitation,10.00,11
+160,Dance,7.00,16
+161,Strength training,12.00,12
+162,Yoga,9.00,13
+163,Injury rehabilitation,9.00,16
+164,Cardio,11.00,20
+165,Strength training,5.00,20
+166,Dance,5.00,11
+167,Strength training,9.00,11
+168,Injury rehabilitation,14.00,16
+169,Cardio,7.00,16
+170,Cardio,12.00,16
+171,Injury rehabilitation,11.00,12
+172,Cardio,10.00,17
+173,Dance,7.00,16
+174,Cardio,5.00,15
+175,Dance,9.00,13
+176,Dance,15.00,12
+177,Yoga,8.00,16
+178,Cardio,9.00,13
+179,Dance,5.00,15
+180,Yoga,15.00,19
+181,Dance,10.00,17
+182,Dance,7.00,19
+183,Injury rehabilitation,10.00,15
+184,Cardio,13.00,17
+185,Cardio,14.00,15
+186,Cardio,12.00,13
+187,Injury rehabilitation,13.00,11
+188,Strength training,5.00,11
+189,Strength training,13.00,18
+190,Dance,12.00,18
+191,Strength training,12.00,10
+192,Yoga,5.00,12
+193,Injury rehabilitation,12.00,13
+194,Strength training,7.00,15
+195,Injury rehabilitation,5.00,14
+196,Cardio,5.00,15
+197,Strength training,8.00,15
+198,Strength training,6.00,16
+199,Strength training,9.00,19
+200,Injury rehabilitation,9.00,15
+201,Cardio,14.00,13
+202,Strength training,5.00,10
+203,Cardio,14.00,20
+204,Cardio,13.00,12
+205,Dance,9.00,16
+206,Cardio,7.00,18
+207,Yoga,8.00,13
+208,Strength training,10.00,20
+209,Cardio,13.00,12
+210,Injury rehabilitation,6.00,15
+211,Yoga,8.00,12
+212,Yoga,6.00,11
+213,Strength training,6.00,14
+214,Dance,9.00,15
+215,Cardio,6.00,20
+216,Injury rehabilitation,7.00,14
+217,Injury rehabilitation,14.00,13
+218,Cardio,10.00,13
+219,Yoga,8.00,19
+220,Injury rehabilitation,14.00,10
+221,Cardio,5.00,15
+222,Yoga,15.00,19
+223,Cardio,10.00,13
+224,Injury rehabilitation,10.00,20
+225,Injury rehabilitation,10.00,14
+226,Strength training,5.00,13
+227,Yoga,8.00,17
+228,Yoga,11.00,16
+229,Yoga,6.00,19
+230,Strength training,11.00,12
+231,Cardio,13.00,12
+232,Strength training,14.00,14
+233,Cardio,12.00,11
+234,Injury rehabilitation,12.00,12
+235,Injury rehabilitation,7.00,20
+236,Strength training,11.00,14
+237,Strength training,10.00,14
+238,Dance,13.00,13
+239,Strength training,13.00,12
+240,Cardio,12.00,12
+241,Injury rehabilitation,6.00,20
+242,Injury rehabilitation,9.00,12
+243,Dance,9.00,20
+244,Cardio,9.00,11
+245,Dance,10.00,10
+246,Dance,7.00,13
+247,Cardio,13.00,16
+248,Dance,15.00,17
+249,Cardio,9.00,12
+250,Injury rehabilitation,5.00,19
+251,Dance,15.00,14
+252,Strength training,9.00,17
+253,Injury rehabilitation,5.00,14
+254,Yoga,9.00,10
+255,Strength training,12.00,14
+256,Dance,9.00,15
+257,Cardio,15.00,13
+258,Injury rehabilitation,15.00,10
+259,Cardio,14.00,14
+260,Strength training,11.00,15
+261,Injury rehabilitation,7.00,10
+262,Injury rehabilitation,6.00,16
+263,Strength training,5.00,14
+264,Injury rehabilitation,8.00,18
+265,Dance,15.00,20
+266,Yoga,5.00,14
+267,Yoga,10.00,19
+268,Cardio,11.00,20
+269,Dance,11.00,11
+270,Dance,13.00,17
+271,Injury rehabilitation,7.00,19
+272,Strength training,11.00,13
+273,Dance,8.00,20
+274,Yoga,15.00,15
+275,Injury rehabilitation,5.00,18
+276,Dance,5.00,15
+277,Yoga,7.00,14
+278,Cardio,13.00,17
+279,Injury rehabilitation,8.00,16
+280,Dance,15.00,12
+281,Yoga,10.00,15
+282,Cardio,9.00,10
+283,Strength training,13.00,17
+284,Cardio,7.00,16
+285,Cardio,14.00,12
+286,Yoga,9.00,12
+287,Yoga,5.00,14
+288,Cardio,11.00,17
+289,Cardio,7.00,19
+290,Cardio,9.00,19
+291,Dance,10.00,15
+292,Cardio,11.00,14
+293,Yoga,5.00,17
+294,Strength training,7.00,14
+295,Yoga,10.00,18
+296,Dance,7.00,18
+297,Cardio,13.00,20
+298,Yoga,6.00,15
+299,Cardio,10.00,11
+300,Dance,13.00,15
+301,Cardio,6.00,10
+302,Strength training,8.00,15
+303,Strength training,6.00,11
+304,Dance,7.00,18
+305,Cardio,15.00,12
+306,Strength training,8.00,16
+307,Dance,14.00,16
+308,Injury rehabilitation,14.00,17
+309,Cardio,13.00,17
+310,Cardio,7.00,15
+311,Strength training,9.00,19
+312,Dance,15.00,12
+313,Dance,12.00,20
+314,Dance,9.00,10
+315,Cardio,6.00,13
+316,Cardio,6.00,20
+317,Yoga,9.00,13
+318,Injury rehabilitation,12.00,11
+319,Dance,8.00,11
+320,Dance,10.00,13
+321,Dance,12.00,11
+322,Strength training,9.00,13
+323,Cardio,8.00,12
+324,Dance,7.00,15
+325,Yoga,8.00,20
+326,Cardio,7.00,13
+327,Yoga,12.00,16
+328,Dance,10.00,11
+329,Dance,13.00,10
+330,Strength training,13.00,11
+331,Yoga,10.00,10
+332,Dance,14.00,18
+333,Dance,5.00,18
+334,Strength training,14.00,18
+335,Injury rehabilitation,13.00,11
+336,Yoga,14.00,10
+337,Yoga,13.00,10
+338,Cardio,15.00,14
+339,Strength training,10.00,13
+340,Injury rehabilitation,5.00,15
+341,Injury rehabilitation,15.00,11
+342,Dance,12.00,17
+343,Cardio,10.00,20
+344,Cardio,14.00,14
+345,Cardio,14.00,18
+346,Strength training,10.00,13
+347,Yoga,7.00,18
+348,Yoga,12.00,17
+349,Dance,8.00,19
+350,Yoga,10.00,10
+351,Dance,11.00,10
+352,Strength training,12.00,14
+353,Dance,12.00,18
+354,Cardio,12.00,20
+355,Cardio,14.00,10
+356,Cardio,5.00,18
+357,Strength training,12.00,13
+358,Yoga,15.00,15
+359,Yoga,5.00,15
+360,Yoga,14.00,14
+361,Cardio,12.00,10
+362,Yoga,10.00,10
+363,Injury rehabilitation,9.00,11
+364,Yoga,13.00,14
+365,Injury rehabilitation,10.00,13
+366,Strength training,7.00,13
+367,Strength training,8.00,20
+368,Cardio,13.00,11
+369,Cardio,9.00,10
+370,Cardio,6.00,10
+371,Cardio,15.00,14
+372,Dance,14.00,13
+373,Cardio,12.00,19
+374,Cardio,14.00,14
+375,Yoga,8.00,15
+376,Injury rehabilitation,8.00,20
+377,Strength training,10.00,18
+378,Cardio,8.00,11
+379,Dance,12.00,20
+380,Dance,13.00,11
+381,Yoga,5.00,17
+382,Injury rehabilitation,6.00,13
+383,Dance,5.00,14
+384,Injury rehabilitation,8.00,20
+385,Injury rehabilitation,10.00,12
+386,Injury rehabilitation,14.00,20
+387,Dance,14.00,18
+388,Cardio,13.00,12
+389,Yoga,12.00,18
+390,Cardio,15.00,10
+391,Cardio,6.00,14
+392,Dance,8.00,11
+393,Strength training,11.00,14
+394,Strength training,5.00,15
+395,Dance,12.00,10
+396,Injury rehabilitation,10.00,12
+397,Strength training,10.00,16
+398,Cardio,12.00,14
+399,Dance,11.00,15
+400,Injury rehabilitation,12.00,11
+401,Yoga,5.00,15
+402,Strength training,9.00,14
+403,Injury rehabilitation,5.00,18
+404,Cardio,8.00,19
+405,Cardio,9.00,16
+406,Injury rehabilitation,9.00,10
+407,Cardio,7.00,17
+408,Yoga,7.00,19
+409,Strength training,8.00,10
+410,Yoga,6.00,10
+411,Injury rehabilitation,9.00,17
+412,Strength training,14.00,20
+413,Cardio,13.00,11
+414,Yoga,5.00,13
+415,Injury rehabilitation,9.00,15
+416,Dance,13.00,18
+417,Dance,12.00,14
+418,Dance,13.00,18
+419,Injury rehabilitation,15.00,19
+420,Yoga,5.00,12
+421,Dance,12.00,14
+422,Injury rehabilitation,12.00,10
+423,Injury rehabilitation,14.00,10
+424,Strength training,15.00,17
+425,Yoga,7.00,18
+426,Injury rehabilitation,11.00,20
+427,Yoga,7.00,17
+428,Strength training,7.00,12
+429,Dance,6.00,10
+430,Yoga,8.00,10
+431,Cardio,10.00,16
+432,Dance,8.00,17
+433,Injury rehabilitation,6.00,18
+434,Dance,9.00,19
+435,Dance,7.00,16
+436,Injury rehabilitation,12.00,19
+437,Injury rehabilitation,12.00,13
+438,Yoga,9.00,17
+439,Yoga,10.00,17
+440,Strength training,11.00,13
+441,Injury rehabilitation,8.00,11
+442,Injury rehabilitation,11.00,20
+443,Cardio,9.00,14
+444,Strength training,11.00,10
+445,Strength training,14.00,12
+446,Yoga,5.00,10
+447,Dance,13.00,12
+448,Injury rehabilitation,5.00,15
+449,Cardio,7.00,14
+450,Yoga,6.00,19
+451,Strength training,15.00,16
+452,Dance,15.00,10
+453,Yoga,10.00,16
+454,Dance,13.00,15
+455,Yoga,12.00,16
+456,Cardio,5.00,15
+457,Strength training,11.00,16
+458,Dance,6.00,13
+459,Cardio,10.00,10
+460,Injury rehabilitation,15.00,12
+461,Cardio,14.00,15
+462,Strength training,5.00,15
+463,Injury rehabilitation,15.00,10
+464,Strength training,11.00,13
+465,Dance,12.00,20
+466,Cardio,7.00,13
+467,Cardio,10.00,13
+468,Cardio,9.00,17
+469,Yoga,14.00,18
+470,Yoga,10.00,13
+471,Cardio,9.00,20
+472,Injury rehabilitation,12.00,10
+473,Injury rehabilitation,11.00,12
+474,Injury rehabilitation,8.00,18
+475,Yoga,14.00,12
+476,Cardio,6.00,14
+477,Yoga,11.00,10
+478,Strength training,8.00,17
+479,Injury rehabilitation,15.00,16
+480,Dance,14.00,12
+481,Yoga,12.00,11
+482,Yoga,8.00,15
+483,Injury rehabilitation,9.00,11
+484,Injury rehabilitation,8.00,11
+485,Dance,12.00,12
+486,Strength training,7.00,13
+487,Cardio,12.00,16
+488,Yoga,10.00,20
+489,Injury rehabilitation,10.00,20
+490,Strength training,10.00,10
+491,Injury rehabilitation,14.00,18
+492,Yoga,12.00,15
+493,Yoga,15.00,20
+494,Injury rehabilitation,13.00,18
+495,Dance,8.00,10
+496,Dance,11.00,10
+497,Cardio,7.00,13
+498,Strength training,11.00,18
+499,Dance,10.00,10
+500,Injury rehabilitation,9.00,20
+501,Strength training,6.00,20
+502,Dance,9.00,12
+503,Dance,6.00,11
+504,Dance,15.00,15
+505,Injury rehabilitation,12.00,14
+506,Cardio,9.00,11
+507,Strength training,10.00,10
+508,Cardio,14.00,16
+509,Yoga,14.00,20
+510,Strength training,13.00,11
+511,Strength training,8.00,10
+512,Injury rehabilitation,10.00,20
+513,Dance,10.00,15
+514,Injury rehabilitation,15.00,17
+515,Dance,11.00,15
+516,Yoga,11.00,20
+517,Injury rehabilitation,15.00,11
+518,Cardio,11.00,14
+519,Dance,8.00,10
+520,Dance,6.00,16
+521,Injury rehabilitation,10.00,15
+522,Yoga,10.00,10
+523,Dance,9.00,16
+524,Cardio,14.00,11
+525,Injury rehabilitation,5.00,16
+526,Yoga,14.00,14
+527,Injury rehabilitation,14.00,17
+528,Strength training,9.00,19
+529,Strength training,6.00,17
+530,Cardio,14.00,16
+531,Strength training,5.00,18
+532,Injury rehabilitation,14.00,16
+533,Yoga,13.00,18
+534,Dance,8.00,10
+535,Strength training,7.00,19
+536,Yoga,9.00,11
+537,Yoga,12.00,18
+538,Cardio,6.00,13
+539,Yoga,14.00,17
+540,Injury rehabilitation,11.00,17
+541,Strength training,11.00,16
+542,Yoga,13.00,20
+543,Yoga,5.00,10
+544,Injury rehabilitation,11.00,14
+545,Strength training,11.00,19
+546,Cardio,5.00,17
+547,Strength training,8.00,18
+548,Dance,13.00,12
+549,Yoga,15.00,19
+550,Cardio,11.00,15
+551,Dance,10.00,11
+552,Injury rehabilitation,9.00,11
+553,Strength training,12.00,20
+554,Injury rehabilitation,6.00,18
+555,Cardio,11.00,13
+556,Injury rehabilitation,13.00,17
+557,Dance,8.00,13
+558,Dance,12.00,16
+559,Strength training,12.00,14
+560,Strength training,6.00,19
+561,Yoga,5.00,17
+562,Dance,10.00,18
+563,Strength training,8.00,18
+564,Cardio,13.00,19
+565,Injury rehabilitation,9.00,11
+566,Cardio,12.00,20
+567,Strength training,5.00,12
+568,Dance,10.00,11
+569,Injury rehabilitation,7.00,15
+570,Injury rehabilitation,13.00,20
+571,Strength training,5.00,11
+572,Yoga,13.00,18
+573,Yoga,12.00,16
+574,Strength training,15.00,20
+575,Yoga,6.00,12
+576,Injury rehabilitation,13.00,13
+577,Dance,6.00,17
+578,Strength training,5.00,20
+579,Yoga,5.00,20
+580,Yoga,13.00,10
+581,Strength training,15.00,10
+582,Cardio,15.00,10
+583,Dance,11.00,14
+584,Yoga,14.00,12
+585,Injury rehabilitation,10.00,18
+586,Injury rehabilitation,13.00,16
+587,Yoga,7.00,16
+588,Dance,7.00,11
+589,Cardio,15.00,18
+590,Strength training,15.00,20
+591,Cardio,12.00,10
+592,Yoga,5.00,15
+593,Dance,5.00,19
+594,Injury rehabilitation,15.00,14
+595,Dance,11.00,20
+596,Cardio,7.00,19
+597,Cardio,8.00,18
+598,Strength training,6.00,10
+599,Strength training,15.00,16
+600,Injury rehabilitation,8.00,18
+601,Strength training,11.00,16
+602,Yoga,10.00,19
+603,Strength training,11.00,20
+604,Cardio,6.00,19
+605,Dance,7.00,10
+606,Yoga,8.00,17
+607,Dance,6.00,18
+608,Strength training,14.00,10
+609,Cardio,15.00,14
+610,Strength training,14.00,10
+611,Injury rehabilitation,9.00,12
+612,Dance,8.00,13
+613,Strength training,9.00,18
+614,Yoga,9.00,19
+615,Injury rehabilitation,9.00,15
+616,Strength training,7.00,18
+617,Dance,5.00,13
+618,Cardio,13.00,18
+619,Strength training,11.00,14
+620,Yoga,10.00,11
+621,Injury rehabilitation,8.00,11
+622,Dance,8.00,16
+623,Dance,5.00,19
+624,Injury rehabilitation,10.00,19
+625,Strength training,15.00,15
+626,Cardio,9.00,13
+627,Strength training,13.00,17
+628,Dance,14.00,18
+629,Injury rehabilitation,14.00,19
+630,Injury rehabilitation,6.00,10
+631,Injury rehabilitation,12.00,20
+632,Strength training,13.00,20
+633,Yoga,8.00,13
+634,Strength training,7.00,19
+635,Yoga,13.00,16
+636,Cardio,9.00,10
+637,Strength training,6.00,14
+638,Dance,7.00,10
+639,Cardio,11.00,10
+640,Yoga,7.00,13
+641,Injury rehabilitation,7.00,18
+642,Injury rehabilitation,5.00,17
+643,Injury rehabilitation,14.00,12
+644,Cardio,10.00,18
+645,Yoga,5.00,10
+646,Cardio,12.00,18
+647,Injury rehabilitation,15.00,15
+648,Yoga,8.00,12
+649,Injury rehabilitation,5.00,20
+650,Injury rehabilitation,15.00,13
+651,Injury rehabilitation,10.00,16
+652,Strength training,9.00,14
+653,Dance,8.00,11
+654,Dance,15.00,19
+655,Injury rehabilitation,15.00,11
+656,Cardio,13.00,20
+657,Injury rehabilitation,11.00,18
+658,Yoga,11.00,11
+659,Dance,9.00,20
+660,Dance,9.00,18
+661,Dance,12.00,17
+662,Strength training,6.00,11
+663,Yoga,14.00,10
+664,Yoga,9.00,11
+665,Cardio,9.00,16
+666,Strength training,6.00,13
+667,Dance,10.00,16
+668,Yoga,9.00,11
+669,Cardio,8.00,12
+670,Cardio,12.00,18
+671,Injury rehabilitation,10.00,18
+672,Injury rehabilitation,11.00,10
+673,Yoga,9.00,18
+674,Cardio,7.00,20
+675,Injury rehabilitation,10.00,15
+676,Dance,13.00,15
+677,Dance,11.00,20
+678,Dance,12.00,16
+679,Yoga,14.00,19
+680,Cardio,8.00,13
+681,Cardio,14.00,13
+682,Strength training,12.00,11
+683,Strength training,14.00,14
+684,Injury rehabilitation,9.00,14
+685,Cardio,15.00,18
+686,Injury rehabilitation,14.00,13
+687,Cardio,8.00,13
+688,Injury rehabilitation,9.00,10
+689,Injury rehabilitation,13.00,13
+690,Injury rehabilitation,7.00,13
+691,Injury rehabilitation,6.00,10
+692,Injury rehabilitation,11.00,14
+693,Dance,5.00,14
+694,Injury rehabilitation,8.00,20
+695,Dance,7.00,17
+696,Dance,9.00,19
+697,Injury rehabilitation,12.00,19
+698,Injury rehabilitation,7.00,12
+699,Cardio,7.00,16
+700,Dance,14.00,10
+701,Dance,5.00,16
+702,Dance,7.00,10
+703,Cardio,15.00,10
+704,Yoga,11.00,11
+705,Injury rehabilitation,14.00,17
+706,Injury rehabilitation,14.00,16
+707,Cardio,12.00,13
+708,Dance,14.00,19
+709,Cardio,5.00,14
+710,Yoga,6.00,12
+711,Cardio,8.00,14
+712,Dance,15.00,19
+713,Yoga,6.00,18
+714,Cardio,7.00,20
+715,Yoga,6.00,17
+716,Yoga,11.00,19
+717,Strength training,13.00,13
+718,Yoga,7.00,13
+719,Cardio,14.00,13
+720,Strength training,11.00,11
+721,Strength training,6.00,17
+722,Yoga,12.00,13
+723,Cardio,8.00,18
+724,Injury rehabilitation,12.00,14
+725,Strength training,15.00,13
+726,Dance,10.00,17
+727,Strength training,11.00,10
+728,Injury rehabilitation,15.00,10
+729,Dance,14.00,18
+730,Yoga,6.00,14
+731,Strength training,9.00,18
+732,Injury rehabilitation,12.00,19
+733,Strength training,13.00,13
+734,Yoga,8.00,10
+735,Cardio,11.00,12
+736,Cardio,8.00,14
+737,Strength training,10.00,11
+738,Strength training,8.00,12
+739,Strength training,14.00,13
+740,Strength training,12.00,20
+741,Yoga,8.00,19
+742,Dance,5.00,16
+743,Injury rehabilitation,11.00,12
+744,Yoga,12.00,19
+745,Strength training,9.00,19
+746,Dance,6.00,15
+747,Dance,14.00,15
+748,Cardio,10.00,14
+749,Dance,9.00,12
+750,Cardio,11.00,20
+751,Cardio,6.00,19
+752,Strength training,10.00,19
+753,Injury rehabilitation,9.00,12
+754,Strength training,13.00,17
+755,Strength training,9.00,14
+756,Cardio,6.00,18
+757,Yoga,6.00,20
+758,Cardio,15.00,18
+759,Yoga,10.00,13
+760,Yoga,6.00,15
+761,Injury rehabilitation,6.00,14
+762,Strength training,12.00,12
+763,Injury rehabilitation,5.00,15
+764,Yoga,6.00,15
+765,Yoga,7.00,19
+766,Dance,13.00,11
+767,Injury rehabilitation,12.00,13
+768,Yoga,14.00,12
+769,Strength training,5.00,14
+770,Dance,15.00,13
+771,Dance,15.00,13
+772,Yoga,7.00,17
+773,Dance,6.00,19
+774,Strength training,12.00,16
+775,Strength training,12.00,17
+776,Strength training,14.00,20
+777,Injury rehabilitation,15.00,17
+778,Injury rehabilitation,11.00,17
+779,Yoga,10.00,13
+780,Dance,8.00,17
+781,Injury rehabilitation,15.00,18
+782,Injury rehabilitation,13.00,10
+783,Strength training,12.00,10
+784,Dance,11.00,19
+785,Yoga,12.00,10
+786,Injury rehabilitation,11.00,18
+787,Strength training,8.00,19
+788,Dance,7.00,11
+789,Yoga,13.00,16
+790,Strength training,8.00,16
+791,Strength training,15.00,13
+792,Injury rehabilitation,15.00,11
+793,Dance,7.00,17
+794,Dance,15.00,11
+795,Injury rehabilitation,10.00,18
+796,Injury rehabilitation,10.00,17
+797,Injury rehabilitation,5.00,15
+798,Cardio,11.00,14
+799,Dance,10.00,20
+800,Strength training,13.00,17
+801,Dance,15.00,19
+802,Cardio,15.00,18
+803,Cardio,9.00,12
+804,Dance,12.00,17
+805,Dance,11.00,14
+806,Yoga,15.00,19
+807,Yoga,14.00,17
+808,Strength training,15.00,12
+809,Cardio,15.00,17
+810,Injury rehabilitation,9.00,19
+811,Cardio,10.00,14
+812,Dance,9.00,17
+813,Injury rehabilitation,14.00,14
+814,Cardio,7.00,14
+815,Cardio,13.00,17
+816,Cardio,10.00,12
+817,Injury rehabilitation,15.00,12
+818,Yoga,8.00,16
+819,Dance,8.00,11
+820,Injury rehabilitation,6.00,11
+821,Yoga,9.00,13
+822,Strength training,9.00,18
+823,Strength training,11.00,16
+824,Yoga,10.00,11
+825,Cardio,13.00,11
+826,Strength training,10.00,11
+827,Dance,14.00,20
+828,Dance,10.00,19
+829,Strength training,6.00,10
+830,Strength training,7.00,13
+831,Yoga,11.00,17
+832,Yoga,9.00,18
+833,Cardio,12.00,19
+834,Injury rehabilitation,15.00,16
+835,Cardio,12.00,13
+836,Injury rehabilitation,12.00,15
+837,Dance,6.00,11
+838,Cardio,5.00,19
+839,Yoga,13.00,20
+840,Injury rehabilitation,6.00,10
+841,Yoga,8.00,12
+842,Cardio,6.00,13
+843,Strength training,12.00,13
+844,Injury rehabilitation,8.00,16
+845,Strength training,10.00,12
+846,Strength training,15.00,12
+847,Cardio,13.00,20
+848,Strength training,9.00,14
+849,Strength training,7.00,17
+850,Injury rehabilitation,15.00,17
+851,Yoga,13.00,19
+852,Yoga,5.00,13
+853,Yoga,5.00,18
+854,Dance,9.00,14
+855,Yoga,11.00,15
+856,Yoga,10.00,17
+857,Dance,15.00,10
+858,Strength training,6.00,13
+859,Strength training,12.00,16
+860,Strength training,11.00,10
+861,Injury rehabilitation,8.00,15
+862,Dance,6.00,18
+863,Dance,14.00,15
+864,Strength training,5.00,20
+865,Strength training,7.00,12
+866,Dance,10.00,10
+867,Injury rehabilitation,11.00,11
+868,Cardio,5.00,15
+869,Injury rehabilitation,12.00,13
+870,Dance,15.00,13
+871,Strength training,8.00,20
+872,Cardio,10.00,19
+873,Dance,9.00,20
+874,Yoga,11.00,16
+875,Strength training,8.00,19
+876,Yoga,13.00,17
+877,Dance,14.00,14
+878,Injury rehabilitation,7.00,17
+879,Dance,14.00,12
+880,Yoga,10.00,17
+881,Dance,10.00,18
+882,Strength training,6.00,13
+883,Yoga,14.00,20
+884,Injury rehabilitation,12.00,12
+885,Yoga,9.00,11
+886,Dance,5.00,20
+887,Strength training,7.00,15
+888,Strength training,13.00,10
+889,Cardio,13.00,12
+890,Strength training,11.00,14
+891,Injury rehabilitation,5.00,20
+892,Cardio,6.00,15
+893,Yoga,10.00,13
+894,Yoga,8.00,12
+895,Strength training,6.00,10
+896,Injury rehabilitation,10.00,10
+897,Injury rehabilitation,7.00,19
+898,Yoga,6.00,10
+899,Strength training,7.00,17
+900,Dance,7.00,14
+901,Strength training,10.00,20
+902,Strength training,13.00,15
+903,Cardio,12.00,18
+904,Dance,7.00,10
+905,Injury rehabilitation,12.00,11
+906,Dance,12.00,16
+907,Dance,14.00,18
+908,Dance,14.00,10
+909,Yoga,14.00,14
+910,Injury rehabilitation,15.00,15
+911,Cardio,6.00,14
+912,Yoga,12.00,12
+913,Strength training,8.00,13
+914,Yoga,10.00,18
+915,Yoga,15.00,16
+916,Injury rehabilitation,8.00,11
+917,Dance,13.00,14
+918,Dance,6.00,13
+919,Dance,11.00,13
+920,Yoga,9.00,11
+921,Injury rehabilitation,12.00,18
+922,Injury rehabilitation,13.00,20
+923,Cardio,14.00,12
+924,Yoga,11.00,13
+925,Cardio,13.00,20
+926,Cardio,6.00,13
+927,Cardio,12.00,10
+928,Cardio,7.00,18
+929,Dance,8.00,17
+930,Strength training,11.00,15
+931,Dance,9.00,10
+932,Cardio,13.00,17
+933,Yoga,6.00,16
+934,Injury rehabilitation,11.00,12
+935,Injury rehabilitation,12.00,16
+936,Dance,8.00,14
+937,Strength training,13.00,12
+938,Injury rehabilitation,14.00,14
+939,Dance,11.00,10
+940,Yoga,6.00,19
+941,Cardio,7.00,12
+942,Strength training,10.00,12
+943,Injury rehabilitation,13.00,15
+944,Dance,12.00,16
+945,Cardio,13.00,18
+946,Cardio,13.00,18
+947,Cardio,5.00,18
+948,Injury rehabilitation,11.00,18
+949,Injury rehabilitation,12.00,12
+950,Strength training,7.00,16
+951,Dance,12.00,20
+952,Cardio,6.00,12
+953,Cardio,15.00,15
+954,Strength training,6.00,14
+955,Strength training,6.00,12
+956,Dance,5.00,14
+957,Cardio,9.00,15
+958,Injury rehabilitation,8.00,18
+959,Dance,10.00,19
+960,Strength training,13.00,19
+961,Cardio,10.00,15
+962,Yoga,5.00,19
+963,Dance,13.00,20
+964,Strength training,11.00,10
+965,Strength training,12.00,11
+966,Dance,7.00,12
+967,Strength training,10.00,17
+968,Cardio,8.00,13
+969,Injury rehabilitation,7.00,11
+970,Dance,14.00,15
+971,Yoga,11.00,19
+972,Dance,5.00,18
+973,Yoga,10.00,14
+974,Yoga,13.00,10
+975,Strength training,9.00,12
+976,Strength training,8.00,16
+977,Strength training,13.00,17
+978,Strength training,12.00,19
+979,Strength training,8.00,12
+980,Injury rehabilitation,6.00,10
+981,Dance,10.00,19
+982,Strength training,6.00,15
+983,Cardio,5.00,18
+984,Strength training,10.00,16
+985,Strength training,9.00,17
+986,Cardio,12.00,15
+987,Cardio,11.00,11
+988,Strength training,5.00,10
+989,Yoga,14.00,19
+990,Injury rehabilitation,8.00,18
+991,Cardio,14.00,19
+992,Strength training,8.00,18
+993,Dance,8.00,11
+994,Strength training,13.00,19
+995,Dance,5.00,17
+996,Dance,5.00,20
+997,Injury rehabilitation,8.00,19
+998,Injury rehabilitation,7.00,15
+999,Yoga,14.00,11
+1000,Yoga,8.00,18
+1001,Injury rehabilitation,12.00,19
+1002,Cardio,5.00,20
+1003,Dance,14.00,13
+1004,Dance,13.00,12
+1005,Yoga,13.00,20
+1006,Strength training,15.00,13
+1007,Dance,12.00,19
+1008,Strength training,13.00,20
+1009,Cardio,14.00,18
+1010,Yoga,8.00,13
+1011,Cardio,9.00,19
+1012,Injury rehabilitation,11.00,12
+1013,Injury rehabilitation,7.00,17
+1014,Injury rehabilitation,15.00,17
+1015,Strength training,10.00,11
+1016,Yoga,12.00,20
+1017,Strength training,9.00,17
+1018,Yoga,6.00,19
+1019,Yoga,7.00,20
+1020,Strength training,5.00,15
+1021,Dance,15.00,20
+1022,Injury rehabilitation,7.00,17
+1023,Cardio,5.00,11
+1024,Dance,7.00,14
+1025,Dance,14.00,15
+1026,Strength training,12.00,11
+1027,Yoga,12.00,13
+1028,Cardio,7.00,13
+1029,Dance,11.00,15
+1030,Dance,15.00,19
+1031,Cardio,12.00,16
+1032,Injury rehabilitation,13.00,16
+1033,Injury rehabilitation,11.00,15
+1034,Dance,15.00,14
+1035,Yoga,13.00,12
+1036,Cardio,13.00,13
+1037,Yoga,12.00,14
+1038,Strength training,10.00,16
+1039,Strength training,6.00,14
+1040,Yoga,5.00,19
+1041,Dance,5.00,11
+1042,Strength training,11.00,14
+1043,Cardio,10.00,11
+1044,Yoga,10.00,11
+1045,Cardio,5.00,12
+1046,Cardio,14.00,16
+1047,Cardio,7.00,19
+1048,Strength training,9.00,12
+1049,Dance,11.00,17
+1050,Cardio,9.00,14
+1051,Strength training,15.00,20
+1052,Strength training,12.00,16
+1053,Strength training,13.00,15
+1054,Dance,6.00,13
+1055,Injury rehabilitation,9.00,19
+1056,Dance,9.00,12
+1057,Cardio,11.00,13
+1058,Cardio,8.00,14
+1059,Yoga,13.00,12
+1060,Injury rehabilitation,10.00,14
+1061,Strength training,7.00,13
+1062,Dance,13.00,16
+1063,Injury rehabilitation,12.00,17
+1064,Injury rehabilitation,13.00,13
+1065,Injury rehabilitation,13.00,17
+1066,Yoga,10.00,17
+1067,Yoga,13.00,18
+1068,Dance,10.00,14
+1069,Yoga,9.00,19
+1070,Cardio,15.00,12
+1071,Cardio,15.00,16
+1072,Injury rehabilitation,15.00,15
+1073,Strength training,5.00,10
+1074,Yoga,9.00,14
+1075,Yoga,5.00,17
+1076,Cardio,12.00,20
+1077,Cardio,13.00,15
+1078,Cardio,7.00,14
+1079,Injury rehabilitation,13.00,18
+1080,Strength training,8.00,14
+1081,Cardio,9.00,14
+1082,Strength training,13.00,17
+1083,Injury rehabilitation,13.00,18
+1084,Yoga,5.00,13
+1085,Dance,8.00,11
+1086,Cardio,12.00,17
+1087,Cardio,5.00,16
+1088,Dance,7.00,10
+1089,Strength training,11.00,17
+1090,Yoga,11.00,20
+1091,Yoga,6.00,18
+1092,Injury rehabilitation,15.00,17
+1093,Injury rehabilitation,11.00,11
+1094,Strength training,12.00,14
+1095,Yoga,5.00,13
+1096,Injury rehabilitation,5.00,11
+1097,Strength training,7.00,18
+1098,Injury rehabilitation,9.00,11
+1099,Injury rehabilitation,5.00,12
+1100,Yoga,5.00,19
+1101,Strength training,13.00,14
+1102,Dance,9.00,16
+1103,Yoga,10.00,14
+1104,Injury rehabilitation,10.00,14
+1105,Cardio,12.00,14
+1106,Injury rehabilitation,12.00,16
+1107,Yoga,6.00,15
+1108,Cardio,6.00,20
+1109,Dance,14.00,16
+1110,Cardio,12.00,20
+1111,Strength training,7.00,19
+1112,Yoga,12.00,19
+1113,Dance,7.00,16
+1114,Yoga,10.00,14
+1115,Strength training,13.00,18
+1116,Strength training,9.00,12
+1117,Injury rehabilitation,5.00,17
+1118,Injury rehabilitation,15.00,10
+1119,Injury rehabilitation,13.00,20
+1120,Dance,12.00,20
+1121,Cardio,12.00,12
+1122,Cardio,8.00,10
+1123,Strength training,7.00,14
+1124,Dance,14.00,18
+1125,Dance,11.00,12
+1126,Cardio,5.00,19
+1127,Cardio,8.00,10
+1128,Injury rehabilitation,7.00,20
+1129,Yoga,8.00,18
+1130,Cardio,9.00,10
+1131,Strength training,5.00,16
+1132,Injury rehabilitation,12.00,20
+1133,Yoga,6.00,10
+1134,Dance,7.00,11
+1135,Yoga,7.00,12
+1136,Dance,15.00,15
+1137,Dance,12.00,12
+1138,Strength training,6.00,20
+1139,Injury rehabilitation,11.00,16
+1140,Cardio,9.00,12
+1141,Dance,15.00,10
+1142,Dance,11.00,16
+1143,Cardio,7.00,19
+1144,Cardio,14.00,15
+1145,Injury rehabilitation,8.00,20
+1146,Strength training,12.00,17
+1147,Injury rehabilitation,10.00,18
+1148,Strength training,7.00,11
+1149,Cardio,8.00,11
+1150,Strength training,10.00,12
+1151,Yoga,8.00,16
+1152,Injury rehabilitation,8.00,10
+1153,Cardio,6.00,18
+1154,Dance,13.00,11
+1155,Strength training,11.00,15
+1156,Strength training,5.00,19
+1157,Strength training,11.00,14
+1158,Yoga,6.00,10
+1159,Yoga,10.00,19
+1160,Strength training,14.00,14
+1161,Dance,7.00,20
+1162,Yoga,10.00,13
+1163,Yoga,5.00,12
+1164,Dance,14.00,17
+1165,Yoga,7.00,19
+1166,Injury rehabilitation,14.00,14
+1167,Dance,10.00,11
+1168,Dance,13.00,17
+1169,Dance,14.00,18
+1170,Dance,6.00,14
+1171,Yoga,11.00,10
+1172,Injury rehabilitation,14.00,14
+1173,Strength training,5.00,11
+1174,Dance,13.00,18
+1175,Yoga,15.00,18
+1176,Cardio,15.00,16
+1177,Cardio,15.00,17
+1178,Injury rehabilitation,15.00,14
+1179,Injury rehabilitation,7.00,14
+1180,Cardio,15.00,10
+1181,Yoga,6.00,11
+1182,Dance,6.00,10
+1183,Injury rehabilitation,6.00,20
+1184,Strength training,11.00,17
+1185,Cardio,6.00,10
+1186,Strength training,9.00,12
+1187,Dance,11.00,16
+1188,Cardio,10.00,10
+1189,Injury rehabilitation,6.00,20
+1190,Strength training,12.00,15
+1191,Injury rehabilitation,10.00,16
+1192,Injury rehabilitation,6.00,20
+1193,Yoga,7.00,18
+1194,Yoga,9.00,16
+1195,Yoga,9.00,11
+1196,Injury rehabilitation,7.00,10
+1197,Strength training,10.00,10
+1198,Cardio,9.00,11
+1199,Dance,6.00,15
+1200,Strength training,14.00,19
+1201,Injury rehabilitation,8.00,11
+1202,Strength training,12.00,18
+1203,Dance,8.00,11
+1204,Cardio,7.00,18
+1205,Injury rehabilitation,13.00,16
+1206,Yoga,11.00,15
+1207,Strength training,14.00,15
+1208,Cardio,10.00,17
+1209,Yoga,13.00,15
+1210,Dance,5.00,12
+1211,Yoga,14.00,10
+1212,Injury rehabilitation,8.00,12
+1213,Dance,9.00,16
+1214,Yoga,6.00,14
+1215,Dance,11.00,10
+1216,Injury rehabilitation,8.00,17
+1217,Dance,10.00,12
+1218,Strength training,11.00,13
+1219,Injury rehabilitation,15.00,19
+1220,Yoga,11.00,10
+1221,Cardio,10.00,13
+1222,Cardio,9.00,13
+1223,Cardio,6.00,10
+1224,Yoga,9.00,16
+1225,Yoga,14.00,18
+1226,Dance,15.00,17
+1227,Strength training,11.00,12
+1228,Cardio,6.00,12
+1229,Cardio,7.00,14
+1230,Strength training,10.00,17
+1231,Dance,12.00,14
+1232,Cardio,9.00,15
+1233,Dance,8.00,20
+1234,Strength training,14.00,10
+1235,Cardio,11.00,14
+1236,Injury rehabilitation,11.00,19
+1237,Strength training,8.00,14
+1238,Yoga,7.00,14
+1239,Strength training,13.00,11
+1240,Dance,9.00,12
+1241,Cardio,6.00,11
+1242,Yoga,15.00,15
+1243,Dance,9.00,11
+1244,Yoga,9.00,18
+1245,Dance,6.00,11
+1246,Dance,9.00,13
+1247,Cardio,6.00,15
+1248,Yoga,8.00,15
+1249,Strength training,15.00,14
+1250,Strength training,11.00,14
+1251,Yoga,6.00,13
+1252,Dance,8.00,14
+1253,Injury rehabilitation,6.00,15
+1254,Strength training,10.00,12
+1255,Strength training,12.00,15
+1256,Dance,7.00,20
+1257,Strength training,8.00,11
+1258,Dance,7.00,10
+1259,Yoga,15.00,15
+1260,Dance,12.00,16
+1261,Cardio,15.00,18
+1262,Cardio,8.00,11
+1263,Cardio,8.00,17
+1264,Dance,7.00,15
+1265,Cardio,7.00,14
+1266,Strength training,5.00,20
+1267,Dance,15.00,15
+1268,Cardio,9.00,16
+1269,Strength training,7.00,14
+1270,Injury rehabilitation,9.00,17
+1271,Strength training,12.00,19
+1272,Injury rehabilitation,5.00,18
+1273,Injury rehabilitation,9.00,16
+1274,Dance,7.00,13
+1275,Yoga,14.00,15
+1276,Injury rehabilitation,15.00,10
+1277,Cardio,12.00,12
+1278,Yoga,7.00,19
+1279,Dance,8.00,19
+1280,Injury rehabilitation,11.00,15
+1281,Injury rehabilitation,6.00,13
+1282,Dance,15.00,13
+1283,Dance,8.00,12
+1284,Strength training,12.00,12
+1285,Injury rehabilitation,5.00,14
+1286,Injury rehabilitation,7.00,11
+1287,Strength training,14.00,19
+1288,Injury rehabilitation,5.00,17
+1289,Dance,6.00,15
+1290,Strength training,6.00,12
+1291,Cardio,11.00,20
+1292,Yoga,8.00,16
+1293,Yoga,13.00,20
+1294,Injury rehabilitation,9.00,17
+1295,Yoga,11.00,16
+1296,Yoga,11.00,17
+1297,Injury rehabilitation,12.00,15
+1298,Strength training,6.00,12
+1299,Strength training,6.00,15
+1300,Yoga,7.00,17
+1301,Dance,14.00,13
+1302,Dance,9.00,20
+1303,Injury rehabilitation,6.00,17
+1304,Dance,12.00,12
+1305,Yoga,5.00,12
+1306,Dance,6.00,16
+1307,Dance,8.00,14
+1308,Cardio,13.00,17
+1309,Cardio,12.00,15
+1310,Strength training,13.00,19
+1311,Cardio,9.00,11
+1312,Yoga,7.00,14
+1313,Yoga,11.00,19
+1314,Injury rehabilitation,15.00,14
+1315,Strength training,10.00,16
+1316,Yoga,14.00,15
+1317,Dance,6.00,16
+1318,Strength training,10.00,13
+1319,Injury rehabilitation,8.00,17
+1320,Yoga,15.00,11
+1321,Cardio,5.00,15
+1322,Strength training,9.00,20
+1323,Strength training,9.00,19
+1324,Dance,7.00,19
+1325,Yoga,14.00,13
+1326,Injury rehabilitation,9.00,15
+1327,Dance,15.00,12
+1328,Injury rehabilitation,7.00,19
+1329,Injury rehabilitation,9.00,13
+1330,Yoga,11.00,17
+1331,Yoga,7.00,11
+1332,Yoga,7.00,12
+1333,Dance,15.00,17
+1334,Dance,11.00,18
+1335,Strength training,13.00,16
+1336,Yoga,14.00,16
+1337,Injury rehabilitation,8.00,12
+1338,Strength training,14.00,13
+1339,Yoga,11.00,12
+1340,Dance,8.00,17
+1341,Cardio,6.00,15
+1342,Dance,13.00,11
+1343,Yoga,10.00,12
+1344,Yoga,11.00,20
+1345,Yoga,9.00,20
+1346,Yoga,14.00,18
+1347,Cardio,10.00,17
+1348,Cardio,13.00,12
+1349,Dance,12.00,12
+1350,Yoga,9.00,16
+1351,Strength training,5.00,18
+1352,Dance,5.00,10
+1353,Injury rehabilitation,5.00,18
+1354,Yoga,6.00,11
+1355,Injury rehabilitation,12.00,17
+1356,Injury rehabilitation,7.00,10
+1357,Cardio,15.00,18
+1358,Yoga,13.00,17
+1359,Dance,12.00,16
+1360,Cardio,14.00,15
+1361,Yoga,12.00,11
+1362,Injury rehabilitation,13.00,18
+1363,Yoga,11.00,18
+1364,Injury rehabilitation,10.00,11
+1365,Injury rehabilitation,6.00,18
+1366,Cardio,15.00,10
+1367,Dance,12.00,10
+1368,Cardio,7.00,20
+1369,Strength training,5.00,15
+1370,Strength training,7.00,12
+1371,Yoga,7.00,10
+1372,Yoga,15.00,19
+1373,Cardio,13.00,12
+1374,Yoga,6.00,19
+1375,Cardio,10.00,20
+1376,Cardio,5.00,18
+1377,Dance,5.00,10
+1378,Dance,5.00,16
+1379,Cardio,8.00,19
+1380,Yoga,9.00,15
+1381,Cardio,8.00,18
+1382,Injury rehabilitation,9.00,11
+1383,Yoga,9.00,18
+1384,Cardio,12.00,11
+1385,Cardio,11.00,20
+1386,Dance,8.00,16
+1387,Dance,14.00,13
+1388,Injury rehabilitation,5.00,17
+1389,Strength training,10.00,10
+1390,Cardio,6.00,13
+1391,Cardio,9.00,17
+1392,Cardio,8.00,13
+1393,Yoga,12.00,19
+1394,Cardio,6.00,17
+1395,Dance,12.00,12
+1396,Cardio,13.00,14
+1397,Dance,7.00,20
+1398,Yoga,6.00,16
+1399,Cardio,12.00,10
+1400,Dance,10.00,17
+1401,Dance,6.00,13
+1402,Cardio,7.00,16
+1403,Yoga,13.00,10
+1404,Strength training,12.00,18
+1405,Yoga,14.00,18
+1406,Strength training,5.00,10
+1407,Yoga,8.00,16
+1408,Dance,5.00,16
+1409,Injury rehabilitation,12.00,20
+1410,Injury rehabilitation,6.00,20
+1411,Injury rehabilitation,10.00,20
+1412,Injury rehabilitation,11.00,16
+1413,Yoga,9.00,20
+1414,Yoga,6.00,11
+1415,Dance,8.00,11
+1416,Dance,9.00,20
+1417,Injury rehabilitation,12.00,16
+1418,Yoga,7.00,10
+1419,Strength training,9.00,17
+1420,Cardio,14.00,11
+1421,Cardio,14.00,12
+1422,Injury rehabilitation,13.00,12
+1423,Strength training,6.00,16
+1424,Strength training,10.00,19
+1425,Dance,8.00,20
+1426,Strength training,5.00,19
+1427,Dance,7.00,13
+1428,Injury rehabilitation,13.00,14
+1429,Cardio,6.00,20
+1430,Injury rehabilitation,14.00,13
+1431,Dance,10.00,19
+1432,Cardio,12.00,18
+1433,Cardio,9.00,12
+1434,Dance,12.00,17
+1435,Cardio,9.00,19
+1436,Yoga,11.00,10
+1437,Cardio,12.00,10
+1438,Dance,10.00,15
+1439,Injury rehabilitation,8.00,12
+1440,Injury rehabilitation,7.00,15
+1441,Injury rehabilitation,10.00,12
+1442,Dance,5.00,19
+1443,Dance,15.00,16
+1444,Cardio,6.00,14
+1445,Cardio,15.00,11
+1446,Dance,5.00,16
+1447,Injury rehabilitation,6.00,10
+1448,Dance,5.00,13
+1449,Dance,5.00,17
+1450,Strength training,10.00,13
+1451,Injury rehabilitation,8.00,20
+1452,Yoga,11.00,10
+1453,Dance,15.00,19
+1454,Dance,6.00,13
+1455,Cardio,14.00,16
+1456,Cardio,6.00,11
+1457,Cardio,6.00,13
+1458,Injury rehabilitation,14.00,13
+1459,Injury rehabilitation,11.00,12
+1460,Dance,15.00,18
+1461,Yoga,9.00,18
+1462,Strength training,14.00,13
+1463,Yoga,8.00,11
+1464,Strength training,6.00,16
+1465,Injury rehabilitation,10.00,10
+1466,Strength training,10.00,12
+1467,Dance,5.00,12
+1468,Cardio,14.00,16
+1469,Strength training,6.00,17
+1470,Dance,8.00,11
+1471,Dance,14.00,10
+1472,Dance,12.00,20
+1473,Dance,9.00,20
+1474,Dance,10.00,14
+1475,Injury rehabilitation,6.00,18
+1476,Strength training,15.00,10
+1477,Yoga,10.00,14
+1478,Yoga,14.00,17
+1479,Cardio,7.00,14
+1480,Yoga,7.00,18
+1481,Dance,12.00,17
+1482,Strength training,10.00,17
+1483,Strength training,7.00,13
+1484,Strength training,12.00,12
+1485,Yoga,7.00,11
+1486,Cardio,8.00,13
+1487,Cardio,13.00,11
+1488,Yoga,13.00,17
+1489,Yoga,7.00,12
+1490,Strength training,14.00,14
+1491,Injury rehabilitation,12.00,12
+1492,Cardio,7.00,11
+1493,Yoga,11.00,13
+1494,Dance,8.00,16
+1495,Cardio,9.00,18
+1496,Strength training,11.00,20
+1497,Strength training,12.00,19
+1498,Injury rehabilitation,8.00,20
+1499,Dance,7.00,15
+1500,Strength training,8.00,14
+1501,Dance,6.00,18
+1502,Strength training,12.00,14
+1503,Strength training,15.00,13
+1504,Strength training,14.00,14
+1505,Injury rehabilitation,7.00,11
+1506,Dance,15.00,18
+1507,Yoga,14.00,18
+1508,Injury rehabilitation,9.00,11
+1509,Cardio,12.00,13
+1510,Dance,10.00,18
+1511,Strength training,10.00,15
+1512,Cardio,9.00,12
+1513,Cardio,15.00,14
+1514,Dance,13.00,16
+1515,Cardio,7.00,17
+1516,Dance,6.00,17
+1517,Yoga,14.00,14
+1518,Injury rehabilitation,7.00,17
+1519,Cardio,15.00,11
+1520,Cardio,10.00,11
+1521,Yoga,15.00,10
+1522,Cardio,5.00,16
+1523,Strength training,14.00,16
+1524,Injury rehabilitation,7.00,16
+1525,Cardio,7.00,18
+1526,Cardio,8.00,18
+1527,Yoga,14.00,16
+1528,Dance,10.00,14
+1529,Strength training,11.00,17
+1530,Dance,11.00,16
+1531,Cardio,14.00,18
+1532,Dance,8.00,10
+1533,Dance,11.00,13
+1534,Dance,12.00,11
+1535,Injury rehabilitation,8.00,14
+1536,Cardio,6.00,13
+1537,Injury rehabilitation,14.00,11
+1538,Strength training,9.00,14
+1539,Yoga,7.00,10
+1540,Dance,14.00,20
+1541,Cardio,11.00,15
+1542,Dance,15.00,15
+1543,Dance,5.00,10
+1544,Cardio,12.00,10
+1545,Dance,10.00,15
+1546,Strength training,9.00,20
+1547,Injury rehabilitation,5.00,11
+1548,Cardio,13.00,19
+1549,Cardio,8.00,14
+1550,Yoga,14.00,18
+1551,Cardio,12.00,12
+1552,Dance,7.00,16
+1553,Injury rehabilitation,8.00,13
+1554,Yoga,5.00,16
+1555,Yoga,13.00,18
+1556,Dance,7.00,16
+1557,Strength training,8.00,13
+1558,Injury rehabilitation,15.00,15
+1559,Dance,7.00,10
+1560,Cardio,9.00,11
+1561,Cardio,15.00,13
+1562,Yoga,11.00,13
+1563,Dance,5.00,20
+1564,Injury rehabilitation,12.00,12
+1565,Yoga,11.00,17
+1566,Injury rehabilitation,5.00,15
+1567,Yoga,8.00,20
+1568,Dance,5.00,14
+1569,Injury rehabilitation,14.00,19
+1570,Strength training,12.00,20
+1571,Injury rehabilitation,6.00,20
+1572,Dance,5.00,15
+1573,Cardio,11.00,20
+1574,Strength training,5.00,14
+1575,Injury rehabilitation,8.00,17
+1576,Yoga,6.00,15
+1577,Strength training,6.00,10
+1578,Strength training,8.00,12
+1579,Strength training,9.00,20
+1580,Dance,6.00,10
+1581,Injury rehabilitation,14.00,13
+1582,Dance,13.00,20
+1583,Injury rehabilitation,12.00,13
+1584,Cardio,10.00,18
+1585,Strength training,15.00,16
+1586,Dance,15.00,14
+1587,Injury rehabilitation,6.00,13
+1588,Yoga,5.00,17
+1589,Cardio,10.00,13
+1590,Injury rehabilitation,5.00,16
+1591,Cardio,11.00,17
+1592,Yoga,7.00,19
+1593,Dance,8.00,10
+1594,Yoga,13.00,12
+1595,Injury rehabilitation,12.00,14
+1596,Strength training,6.00,15
+1597,Injury rehabilitation,10.00,20
+1598,Strength training,15.00,17
+1599,Yoga,10.00,15
+1600,Cardio,5.00,13
+1601,Cardio,12.00,12
+1602,Yoga,5.00,15
+1603,Yoga,7.00,13
+1604,Yoga,10.00,11
+1605,Cardio,13.00,14
+1606,Strength training,15.00,14
+1607,Injury rehabilitation,14.00,19
+1608,Injury rehabilitation,13.00,17
+1609,Yoga,11.00,15
+1610,Dance,15.00,14
+1611,Yoga,11.00,15
+1612,Yoga,15.00,12
+1613,Injury rehabilitation,5.00,17
+1614,Yoga,15.00,11
+1615,Strength training,6.00,15
+1616,Yoga,12.00,16
+1617,Injury rehabilitation,7.00,16
+1618,Strength training,12.00,13
+1619,Dance,12.00,17
+1620,Cardio,12.00,18
+1621,Yoga,11.00,15
+1622,Dance,11.00,19
+1623,Dance,6.00,20
+1624,Yoga,7.00,10
+1625,Injury rehabilitation,11.00,13
+1626,Injury rehabilitation,13.00,17
+1627,Strength training,6.00,11
+1628,Dance,8.00,19
+1629,Dance,6.00,16
+1630,Dance,7.00,16
+1631,Yoga,5.00,16
+1632,Yoga,13.00,12
+1633,Strength training,15.00,18
+1634,Strength training,7.00,13
+1635,Injury rehabilitation,13.00,14
+1636,Strength training,5.00,12
+1637,Strength training,7.00,15
+1638,Strength training,10.00,16
+1639,Cardio,7.00,20
+1640,Yoga,14.00,15
+1641,Cardio,5.00,18
+1642,Yoga,9.00,10
+1643,Strength training,7.00,12
+1644,Cardio,6.00,16
+1645,Yoga,15.00,17
+1646,Strength training,5.00,19
+1647,Dance,10.00,15
+1648,Cardio,13.00,10
+1649,Strength training,5.00,16
+1650,Cardio,6.00,12
+1651,Yoga,14.00,18
+1652,Yoga,15.00,14
+1653,Yoga,7.00,12
+1654,Yoga,5.00,20
+1655,Yoga,14.00,17
+1656,Yoga,15.00,18
+1657,Cardio,14.00,20
+1658,Strength training,14.00,13
+1659,Yoga,11.00,14
+1660,Injury rehabilitation,7.00,20
+1661,Strength training,13.00,15
+1662,Yoga,11.00,19
+1663,Injury rehabilitation,9.00,10
+1664,Cardio,14.00,19
+1665,Injury rehabilitation,9.00,17
+1666,Cardio,10.00,13
+1667,Strength training,11.00,14
+1668,Injury rehabilitation,12.00,17
+1669,Injury rehabilitation,11.00,19
+1670,Strength training,11.00,20
+1671,Cardio,9.00,15
+1672,Strength training,8.00,12
+1673,Yoga,10.00,16
+1674,Cardio,7.00,15
+1675,Injury rehabilitation,5.00,12
+1676,Injury rehabilitation,9.00,20
+1677,Cardio,14.00,10
+1678,Strength training,7.00,19
+1679,Cardio,13.00,20
+1680,Cardio,12.00,16
+1681,Dance,11.00,14
+1682,Cardio,11.00,20
+1683,Dance,14.00,17
+1684,Injury rehabilitation,13.00,11
+1685,Yoga,8.00,17
+1686,Injury rehabilitation,5.00,12
+1687,Yoga,5.00,11
+1688,Dance,15.00,16
+1689,Dance,13.00,19
+1690,Cardio,10.00,12
+1691,Injury rehabilitation,5.00,11
+1692,Dance,14.00,19
+1693,Yoga,15.00,16
+1694,Injury rehabilitation,13.00,12
+1695,Dance,7.00,18
+1696,Cardio,11.00,20
+1697,Yoga,10.00,16
+1698,Dance,7.00,13
+1699,Injury rehabilitation,9.00,20
+1700,Injury rehabilitation,9.00,10
+1701,Dance,13.00,15
+1702,Yoga,9.00,20
+1703,Strength training,6.00,16
+1704,Yoga,9.00,20
+1705,Yoga,7.00,12
+1706,Dance,10.00,16
+1707,Dance,15.00,14
+1708,Cardio,9.00,10
+1709,Yoga,7.00,12
+1710,Injury rehabilitation,9.00,13
+1711,Yoga,6.00,13
+1712,Dance,5.00,12
+1713,Strength training,11.00,12
+1714,Dance,9.00,16
+1715,Injury rehabilitation,14.00,13
+1716,Injury rehabilitation,14.00,12
+1717,Yoga,15.00,15
+1718,Dance,12.00,15
+1719,Yoga,7.00,18
+1720,Yoga,7.00,10
+1721,Strength training,15.00,13
+1722,Dance,11.00,11
+1723,Cardio,14.00,18
+1724,Strength training,7.00,11
+1725,Strength training,9.00,19
+1726,Injury rehabilitation,6.00,18
+1727,Dance,13.00,19
+1728,Cardio,10.00,16
+1729,Dance,11.00,10
+1730,Strength training,14.00,12
+1731,Cardio,8.00,14
+1732,Cardio,10.00,18
+1733,Yoga,12.00,18
+1734,Yoga,15.00,12
+1735,Yoga,6.00,20
+1736,Cardio,6.00,13
+1737,Yoga,5.00,13
+1738,Dance,10.00,20
+1739,Injury rehabilitation,14.00,15
+1740,Dance,15.00,17
+1741,Cardio,15.00,14
+1742,Injury rehabilitation,11.00,15
+1743,Dance,13.00,17
+1744,Injury rehabilitation,9.00,20
+1745,Strength training,13.00,13
+1746,Yoga,8.00,10
+1747,Cardio,12.00,17
+1748,Yoga,12.00,13
+1749,Strength training,6.00,15
+1750,Injury rehabilitation,15.00,10
+1751,Strength training,11.00,16
+1752,Injury rehabilitation,5.00,10
+1753,Dance,14.00,10
+1754,Yoga,7.00,16
+1755,Dance,12.00,13
+1756,Injury rehabilitation,9.00,17
+1757,Cardio,11.00,16
+1758,Cardio,12.00,11
+1759,Dance,13.00,19
+1760,Injury rehabilitation,6.00,11
+1761,Dance,5.00,12
+1762,Cardio,11.00,15
+1763,Yoga,5.00,16
+1764,Cardio,9.00,10
+1765,Dance,12.00,14
+1766,Dance,15.00,19
+1767,Strength training,5.00,17
+1768,Injury rehabilitation,15.00,20
+1769,Cardio,7.00,19
+1770,Cardio,6.00,15
+1771,Cardio,9.00,18
+1772,Yoga,8.00,11
+1773,Injury rehabilitation,5.00,16
+1774,Injury rehabilitation,14.00,20
+1775,Strength training,9.00,19
+1776,Cardio,15.00,19
+1777,Yoga,15.00,13
+1778,Dance,7.00,15
+1779,Strength training,15.00,20
+1780,Injury rehabilitation,9.00,13
+1781,Yoga,13.00,13
+1782,Injury rehabilitation,6.00,15
+1783,Strength training,11.00,16
+1784,Injury rehabilitation,10.00,15
+1785,Strength training,7.00,20
+1786,Cardio,6.00,16
+1787,Dance,11.00,15
+1788,Dance,12.00,19
+1789,Injury rehabilitation,14.00,15
+1790,Strength training,8.00,13
+1791,Dance,13.00,12
+1792,Yoga,12.00,16
+1793,Cardio,12.00,19
+1794,Yoga,14.00,11
+1795,Cardio,5.00,15
+1796,Cardio,8.00,14
+1797,Dance,13.00,16
+1798,Cardio,5.00,13
+1799,Yoga,12.00,11
+1800,Injury rehabilitation,13.00,13
+1801,Yoga,9.00,16
+1802,Dance,14.00,15
+1803,Cardio,9.00,12
+1804,Yoga,7.00,13
+1805,Injury rehabilitation,7.00,19
+1806,Injury rehabilitation,5.00,18
+1807,Injury rehabilitation,15.00,14
+1808,Yoga,7.00,12
+1809,Dance,11.00,17
+1810,Injury rehabilitation,13.00,18
+1811,Cardio,5.00,15
+1812,Dance,7.00,16
+1813,Cardio,9.00,18
+1814,Yoga,6.00,18
+1815,Yoga,9.00,17
+1816,Dance,8.00,10
+1817,Strength training,6.00,10
+1818,Yoga,13.00,15
+1819,Dance,8.00,16
+1820,Injury rehabilitation,15.00,10
+1821,Injury rehabilitation,13.00,15
+1822,Injury rehabilitation,5.00,15
+1823,Strength training,14.00,12
+1824,Strength training,15.00,20
+1825,Dance,15.00,14
+1826,Cardio,13.00,11
+1827,Strength training,7.00,20
+1828,Injury rehabilitation,6.00,13
+1829,Dance,15.00,10
+1830,Strength training,14.00,14
+1831,Dance,12.00,18
+1832,Yoga,15.00,10
+1833,Injury rehabilitation,8.00,20
+1834,Strength training,7.00,19
+1835,Dance,7.00,11
+1836,Injury rehabilitation,7.00,14
+1837,Cardio,6.00,11
+1838,Yoga,13.00,13
+1839,Yoga,14.00,18
+1840,Strength training,14.00,18
+1841,Yoga,8.00,10
+1842,Strength training,12.00,16
+1843,Injury rehabilitation,15.00,12
+1844,Injury rehabilitation,10.00,18
+1845,Dance,14.00,10
+1846,Yoga,13.00,16
+1847,Dance,12.00,15
+1848,Strength training,5.00,14
+1849,Strength training,11.00,20
+1850,Dance,7.00,16
+1851,Dance,10.00,17
+1852,Strength training,7.00,11
+1853,Dance,9.00,16
+1854,Strength training,7.00,10
+1855,Yoga,14.00,20
+1856,Dance,8.00,19
+1857,Injury rehabilitation,11.00,12
+1858,Injury rehabilitation,9.00,16
+1859,Yoga,9.00,17
+1860,Strength training,8.00,16
+1861,Cardio,13.00,11
+1862,Yoga,5.00,14
+1863,Yoga,10.00,18
+1864,Strength training,9.00,14
+1865,Dance,10.00,11
+1866,Cardio,13.00,10
+1867,Injury rehabilitation,11.00,16
+1868,Injury rehabilitation,12.00,17
+1869,Cardio,12.00,10
+1870,Yoga,14.00,10
+1871,Dance,5.00,10
+1872,Strength training,12.00,11
+1873,Strength training,10.00,18
+1874,Strength training,6.00,10
+1875,Injury rehabilitation,13.00,19
+1876,Dance,13.00,20
+1877,Injury rehabilitation,9.00,10
+1878,Strength training,12.00,12
+1879,Injury rehabilitation,5.00,14
+1880,Strength training,8.00,10
+1881,Yoga,13.00,14
+1882,Cardio,7.00,11
+1883,Cardio,8.00,15
+1884,Dance,8.00,10
+1885,Strength training,6.00,18
+1886,Dance,9.00,18
+1887,Dance,6.00,15
+1888,Dance,13.00,18
+1889,Dance,15.00,17
+1890,Cardio,9.00,17
+1891,Yoga,15.00,14
+1892,Strength training,8.00,14
+1893,Dance,6.00,17
+1894,Injury rehabilitation,8.00,11
+1895,Yoga,7.00,13
+1896,Cardio,6.00,17
+1897,Yoga,11.00,18
+1898,Strength training,6.00,20
+1899,Yoga,10.00,12
+1900,Yoga,6.00,18
+1901,Yoga,15.00,17
+1902,Dance,12.00,11
+1903,Injury rehabilitation,12.00,16
+1904,Injury rehabilitation,9.00,10
+1905,Strength training,11.00,20
+1906,Yoga,6.00,11
+1907,Injury rehabilitation,15.00,14
+1908,Injury rehabilitation,11.00,10
+1909,Yoga,12.00,17
+1910,Strength training,11.00,14
+1911,Cardio,12.00,12
+1912,Injury rehabilitation,10.00,14
+1913,Yoga,13.00,10
+1914,Cardio,7.00,16
+1915,Injury rehabilitation,13.00,20
+1916,Dance,10.00,20
+1917,Dance,5.00,17
+1918,Dance,15.00,18
+1919,Dance,12.00,15
+1920,Yoga,10.00,12
+1921,Injury rehabilitation,5.00,20
+1922,Yoga,6.00,17
+1923,Cardio,11.00,11
+1924,Dance,8.00,12
+1925,Dance,6.00,10
+1926,Yoga,8.00,10
+1927,Dance,13.00,17
+1928,Injury rehabilitation,12.00,13
+1929,Strength training,6.00,16
+1930,Injury rehabilitation,13.00,10
+1931,Yoga,8.00,20
+1932,Cardio,6.00,10
+1933,Yoga,5.00,15
+1934,Injury rehabilitation,11.00,11
+1935,Strength training,12.00,17
+1936,Injury rehabilitation,6.00,19
+1937,Injury rehabilitation,9.00,13
+1938,Injury rehabilitation,8.00,16
+1939,Strength training,15.00,19
+1940,Cardio,7.00,13
+1941,Injury rehabilitation,15.00,14
+1942,Yoga,14.00,13
+1943,Strength training,10.00,14
+1944,Cardio,7.00,12
+1945,Yoga,5.00,12
+1946,Injury rehabilitation,11.00,17
+1947,Cardio,6.00,11
+1948,Injury rehabilitation,10.00,14
+1949,Cardio,13.00,14
+1950,Yoga,15.00,12
+1951,Cardio,10.00,13
+1952,Cardio,5.00,15
+1953,Cardio,12.00,17
+1954,Cardio,13.00,16
+1955,Strength training,7.00,12
+1956,Dance,11.00,14
+1957,Dance,13.00,14
+1958,Cardio,8.00,12
+1959,Injury rehabilitation,5.00,10
+1960,Dance,8.00,18
+1961,Cardio,7.00,15
+1962,Injury rehabilitation,14.00,15
+1963,Strength training,9.00,16
+1964,Dance,13.00,13
+1965,Yoga,12.00,10
+1966,Dance,13.00,14
+1967,Injury rehabilitation,12.00,18
+1968,Dance,9.00,16
+1969,Cardio,11.00,18
+1970,Strength training,5.00,19
+1971,Cardio,9.00,18
+1972,Yoga,5.00,10
+1973,Yoga,13.00,14
+1974,Cardio,11.00,20
+1975,Yoga,6.00,19
+1976,Dance,5.00,17
+1977,Dance,5.00,15
+1978,Injury rehabilitation,11.00,20
+1979,Dance,9.00,18
+1980,Yoga,12.00,17
+1981,Strength training,8.00,13
+1982,Strength training,6.00,11
+1983,Dance,13.00,11
+1984,Dance,9.00,16
+1985,Yoga,10.00,13
+1986,Dance,10.00,15
+1987,Cardio,9.00,18
+1988,Yoga,11.00,14
+1989,Cardio,9.00,19
+1990,Dance,5.00,20
+1991,Dance,14.00,11
+1992,Cardio,9.00,13
+1993,Yoga,11.00,18
+1994,Cardio,12.00,19
+1995,Yoga,6.00,20
+1996,Dance,8.00,20
+1997,Dance,6.00,12
+1998,Cardio,11.00,20
+1999,Dance,14.00,15
+2000,Strength training,8.00,14
+2001,Injury rehabilitation,12.00,10
+2002,Dance,7.00,17
+2003,Strength training,13.00,10
+2004,Yoga,8.00,17
+2005,Strength training,8.00,14
+2006,Strength training,14.00,17
+2007,Cardio,14.00,14
+2008,Injury rehabilitation,13.00,14
+2009,Dance,13.00,13
+2010,Cardio,6.00,11
+2011,Dance,7.00,20
+2012,Injury rehabilitation,7.00,18
+2013,Injury rehabilitation,9.00,12
+2014,Strength training,14.00,10
+2015,Yoga,7.00,14
+2016,Injury rehabilitation,8.00,13
+2017,Dance,12.00,17
+2018,Strength training,13.00,20
+2019,Injury rehabilitation,5.00,16
+2020,Dance,13.00,16
+2021,Cardio,9.00,10
+2022,Strength training,5.00,18
+2023,Yoga,12.00,11
+2024,Dance,12.00,20
+2025,Injury rehabilitation,6.00,12
+2026,Injury rehabilitation,15.00,13
+2027,Injury rehabilitation,10.00,19
+2028,Yoga,14.00,12
+2029,Dance,12.00,12
+2030,Yoga,6.00,18
+2031,Strength training,11.00,12
+2032,Injury rehabilitation,14.00,14
+2033,Injury rehabilitation,13.00,11
+2034,Yoga,14.00,12
+2035,Dance,9.00,13
+2036,Dance,7.00,15
+2037,Yoga,8.00,18
+2038,Cardio,6.00,18
+2039,Yoga,12.00,13
+2040,Injury rehabilitation,12.00,17
+2041,Dance,7.00,11
+2042,Yoga,10.00,19
+2043,Injury rehabilitation,7.00,20
+2044,Strength training,10.00,11
+2045,Strength training,10.00,18
+2046,Dance,12.00,11
+2047,Strength training,8.00,11
+2048,Yoga,7.00,17
+2049,Strength training,14.00,14
+2050,Injury rehabilitation,15.00,11
+2051,Yoga,6.00,11
+2052,Cardio,10.00,17
+2053,Injury rehabilitation,7.00,13
+2054,Yoga,14.00,13
+2055,Injury rehabilitation,14.00,17
+2056,Injury rehabilitation,10.00,12
+2057,Strength training,8.00,18
+2058,Injury rehabilitation,15.00,16
+2059,Yoga,6.00,14
+2060,Cardio,14.00,12
+2061,Strength training,5.00,15
+2062,Yoga,8.00,17
+2063,Injury rehabilitation,13.00,18
+2064,Injury rehabilitation,12.00,13
+2065,Strength training,12.00,20
+2066,Strength training,13.00,19
+2067,Yoga,9.00,11
+2068,Yoga,8.00,16
+2069,Yoga,13.00,16
+2070,Yoga,9.00,15
+2071,Dance,10.00,12
+2072,Strength training,11.00,15
+2073,Strength training,14.00,15
+2074,Dance,13.00,18
+2075,Dance,9.00,20
+2076,Dance,11.00,20
+2077,Yoga,9.00,18
+2078,Strength training,7.00,16
+2079,Injury rehabilitation,10.00,20
+2080,Dance,13.00,10
+2081,Dance,14.00,12
+2082,Injury rehabilitation,15.00,19
+2083,Injury rehabilitation,10.00,15
+2084,Cardio,5.00,12
+2085,Strength training,7.00,11
+2086,Dance,12.00,12
+2087,Cardio,13.00,16
+2088,Injury rehabilitation,9.00,16
+2089,Dance,12.00,17
+2090,Strength training,11.00,11
+2091,Dance,15.00,19
+2092,Cardio,5.00,10
+2093,Dance,7.00,12
+2094,Dance,14.00,17
+2095,Strength training,5.00,18
+2096,Strength training,7.00,18
+2097,Yoga,8.00,17
+2098,Yoga,9.00,19
+2099,Cardio,7.00,14
+2100,Yoga,7.00,12
+2101,Injury rehabilitation,15.00,11
+2102,Cardio,7.00,12
+2103,Strength training,8.00,18
+2104,Strength training,13.00,20
+2105,Strength training,5.00,14
+2106,Dance,12.00,12
+2107,Injury rehabilitation,5.00,12
+2108,Strength training,12.00,18
+2109,Dance,7.00,19
+2110,Yoga,11.00,13
+2111,Injury rehabilitation,15.00,19
+2112,Cardio,8.00,15
+2113,Cardio,10.00,17
+2114,Injury rehabilitation,10.00,14
+2115,Yoga,14.00,19
+2116,Injury rehabilitation,13.00,19
+2117,Cardio,12.00,13
+2118,Cardio,12.00,12
+2119,Yoga,7.00,17
+2120,Yoga,9.00,18
+2121,Strength training,7.00,20
+2122,Cardio,6.00,13
+2123,Cardio,8.00,16
+2124,Strength training,15.00,16
+2125,Strength training,14.00,13
+2126,Cardio,7.00,11
+2127,Injury rehabilitation,8.00,17
+2128,Cardio,15.00,20
+2129,Strength training,8.00,19
+2130,Strength training,14.00,18
+2131,Injury rehabilitation,12.00,14
+2132,Strength training,11.00,17
+2133,Cardio,13.00,15
+2134,Strength training,13.00,18
+2135,Strength training,11.00,16
+2136,Cardio,7.00,19
+2137,Dance,5.00,12
+2138,Cardio,12.00,15
+2139,Strength training,5.00,14
+2140,Strength training,12.00,17
+2141,Strength training,9.00,19
+2142,Yoga,7.00,15
+2143,Dance,9.00,10
+2144,Cardio,15.00,20
+2145,Injury rehabilitation,14.00,16
+2146,Dance,6.00,13
+2147,Cardio,12.00,15
+2148,Cardio,6.00,18
+2149,Injury rehabilitation,6.00,18
+2150,Yoga,13.00,20
+2151,Strength training,7.00,11
+2152,Dance,9.00,16
+2153,Yoga,14.00,10
+2154,Cardio,10.00,13
+2155,Cardio,14.00,19
+2156,Dance,13.00,12
+2157,Dance,8.00,11
+2158,Injury rehabilitation,12.00,18
+2159,Injury rehabilitation,9.00,10
+2160,Strength training,12.00,20
+2161,Strength training,14.00,11
+2162,Yoga,12.00,11
+2163,Strength training,11.00,15
+2164,Strength training,5.00,15
+2165,Cardio,6.00,16
+2166,Dance,7.00,11
+2167,Injury rehabilitation,6.00,12
+2168,Strength training,8.00,16
+2169,Yoga,8.00,17
+2170,Injury rehabilitation,6.00,16
+2171,Injury rehabilitation,14.00,15
+2172,Injury rehabilitation,14.00,18
+2173,Dance,8.00,15
+2174,Cardio,13.00,19
+2175,Dance,14.00,20
+2176,Yoga,9.00,13
+2177,Yoga,12.00,17
+2178,Injury rehabilitation,14.00,16
+2179,Injury rehabilitation,6.00,10
+2180,Injury rehabilitation,13.00,19
+2181,Strength training,15.00,13
+2182,Dance,7.00,19
+2183,Strength training,6.00,10
+2184,Dance,12.00,16
+2185,Yoga,13.00,11
+2186,Strength training,11.00,18
+2187,Strength training,12.00,18
+2188,Yoga,7.00,14
+2189,Yoga,12.00,10
+2190,Injury rehabilitation,8.00,10
+2191,Strength training,12.00,19
+2192,Dance,9.00,11
+2193,Cardio,11.00,13
+2194,Strength training,6.00,11
+2195,Cardio,5.00,16
+2196,Strength training,11.00,14
+2197,Injury rehabilitation,11.00,17
+2198,Injury rehabilitation,12.00,13
+2199,Strength training,9.00,12
+2200,Injury rehabilitation,6.00,18
+2201,Cardio,5.00,19
+2202,Yoga,14.00,10
+2203,Dance,5.00,13
+2204,Cardio,5.00,14
+2205,Injury rehabilitation,7.00,12
+2206,Yoga,13.00,11
+2207,Yoga,5.00,11
+2208,Injury rehabilitation,6.00,18
+2209,Cardio,7.00,16
+2210,Yoga,5.00,12
+2211,Injury rehabilitation,13.00,12
+2212,Yoga,12.00,16
+2213,Cardio,15.00,12
+2214,Strength training,12.00,10
+2215,Cardio,10.00,17
+2216,Cardio,6.00,18
+2217,Dance,10.00,14
+2218,Cardio,14.00,13
+2219,Cardio,11.00,16
+2220,Cardio,9.00,12
+2221,Yoga,7.00,19
+2222,Strength training,6.00,15
+2223,Strength training,14.00,10
+2224,Strength training,13.00,16
+2225,Yoga,10.00,14
+2226,Cardio,8.00,11
+2227,Yoga,10.00,16
+2228,Yoga,12.00,10
+2229,Cardio,12.00,17
+2230,Yoga,5.00,15
+2231,Strength training,11.00,13
+2232,Injury rehabilitation,7.00,11
+2233,Injury rehabilitation,11.00,15
+2234,Yoga,13.00,11
+2235,Strength training,13.00,10
+2236,Strength training,13.00,13
+2237,Dance,9.00,18
+2238,Dance,9.00,16
+2239,Strength training,11.00,18
+2240,Dance,5.00,20
+2241,Injury rehabilitation,13.00,19
+2242,Strength training,12.00,11
+2243,Dance,5.00,10
+2244,Injury rehabilitation,13.00,13
+2245,Injury rehabilitation,14.00,20
+2246,Injury rehabilitation,12.00,14
+2247,Dance,15.00,16
+2248,Dance,7.00,18
+2249,Cardio,5.00,18
+2250,Strength training,5.00,20
+2251,Yoga,11.00,11
+2252,Injury rehabilitation,11.00,17
+2253,Cardio,6.00,12
+2254,Injury rehabilitation,10.00,18
+2255,Injury rehabilitation,5.00,10
+2256,Yoga,9.00,11
+2257,Yoga,12.00,16
+2258,Yoga,15.00,11
+2259,Cardio,5.00,13
+2260,Strength training,15.00,10
+2261,Yoga,9.00,20
+2262,Yoga,12.00,15
+2263,Strength training,8.00,15
+2264,Yoga,5.00,11
+2265,Injury rehabilitation,5.00,14
+2266,Yoga,13.00,17
+2267,Dance,12.00,20
+2268,Cardio,8.00,16
+2269,Dance,5.00,18
+2270,Cardio,11.00,17
+2271,Cardio,8.00,17
+2272,Injury rehabilitation,12.00,12
+2273,Cardio,6.00,10
+2274,Injury rehabilitation,14.00,16
+2275,Dance,6.00,12
+2276,Injury rehabilitation,7.00,10
+2277,Cardio,9.00,11
+2278,Strength training,9.00,15
+2279,Dance,8.00,17
+2280,Strength training,6.00,16
+2281,Injury rehabilitation,11.00,14
+2282,Strength training,11.00,17
+2283,Dance,11.00,16
+2284,Injury rehabilitation,6.00,11
+2285,Dance,7.00,17
+2286,Strength training,5.00,13
+2287,Injury rehabilitation,5.00,17
+2288,Yoga,12.00,10
+2289,Cardio,14.00,18
+2290,Injury rehabilitation,15.00,13
+2291,Yoga,7.00,15
+2292,Cardio,14.00,12
+2293,Yoga,12.00,12
+2294,Strength training,13.00,12
+2295,Strength training,11.00,12
+2296,Injury rehabilitation,11.00,11
+2297,Dance,11.00,17
+2298,Dance,10.00,17
+2299,Injury rehabilitation,13.00,17
+2300,Cardio,6.00,10
+2301,Yoga,12.00,19
+2302,Cardio,15.00,15
+2303,Strength training,14.00,10
+2304,Dance,9.00,20
+2305,Dance,11.00,10
+2306,Strength training,10.00,14
+2307,Injury rehabilitation,7.00,19
+2308,Cardio,6.00,14
+2309,Cardio,9.00,18
+2310,Injury rehabilitation,15.00,17
+2311,Strength training,13.00,13
+2312,Injury rehabilitation,9.00,10
+2313,Strength training,7.00,17
+2314,Yoga,7.00,16
+2315,Strength training,9.00,17
+2316,Injury rehabilitation,13.00,10
+2317,Dance,6.00,10
+2318,Dance,13.00,15
+2319,Yoga,14.00,11
+2320,Dance,8.00,13
+2321,Dance,8.00,13
+2322,Yoga,9.00,15
+2323,Yoga,10.00,19
+2324,Dance,15.00,20
+2325,Cardio,13.00,16
+2326,Cardio,13.00,11
+2327,Injury rehabilitation,15.00,14
+2328,Dance,13.00,13
+2329,Dance,15.00,13
+2330,Injury rehabilitation,6.00,10
+2331,Yoga,5.00,15
+2332,Yoga,11.00,15
+2333,Injury rehabilitation,9.00,15
+2334,Strength training,11.00,11
+2335,Yoga,13.00,20
+2336,Injury rehabilitation,15.00,15
+2337,Dance,5.00,17
+2338,Strength training,5.00,13
+2339,Cardio,9.00,17
+2340,Strength training,9.00,10
+2341,Strength training,7.00,19
+2342,Strength training,8.00,14
+2343,Injury rehabilitation,5.00,20
+2344,Cardio,10.00,11
+2345,Dance,12.00,17
+2346,Dance,14.00,17
+2347,Cardio,14.00,15
+2348,Strength training,8.00,20
+2349,Cardio,7.00,17
+2350,Dance,10.00,19
+2351,Strength training,15.00,14
+2352,Dance,11.00,20
+2353,Strength training,15.00,17
+2354,Dance,9.00,12
+2355,Strength training,10.00,12
+2356,Injury rehabilitation,12.00,19
+2357,Injury rehabilitation,7.00,16
+2358,Dance,9.00,11
+2359,Cardio,7.00,20
+2360,Cardio,7.00,19
+2361,Cardio,7.00,20
+2362,Cardio,5.00,12
+2363,Dance,9.00,12
+2364,Yoga,10.00,10
+2365,Dance,10.00,15
+2366,Injury rehabilitation,5.00,20
+2367,Strength training,9.00,17
+2368,Cardio,9.00,20
+2369,Yoga,7.00,10
+2370,Strength training,7.00,11
+2371,Injury rehabilitation,10.00,12
+2372,Dance,12.00,18
+2373,Strength training,8.00,11
+2374,Yoga,15.00,18
+2375,Yoga,6.00,12
+2376,Strength training,8.00,11
+2377,Strength training,5.00,11
+2378,Injury rehabilitation,11.00,12
+2379,Dance,6.00,20
+2380,Yoga,8.00,16
+2381,Dance,6.00,14
+2382,Injury rehabilitation,9.00,14
+2383,Yoga,9.00,19
+2384,Yoga,10.00,10
+2385,Dance,12.00,15
+2386,Dance,13.00,20
+2387,Yoga,10.00,19
+2388,Strength training,12.00,20
+2389,Cardio,12.00,20
+2390,Injury rehabilitation,14.00,17
+2391,Strength training,14.00,20
+2392,Cardio,5.00,19
+2393,Strength training,10.00,13
+2394,Cardio,13.00,10
+2395,Cardio,7.00,10
+2396,Injury rehabilitation,13.00,12
+2397,Strength training,6.00,11
+2398,Cardio,7.00,13
+2399,Strength training,8.00,18
+2400,Strength training,11.00,16
+2401,Injury rehabilitation,8.00,13
+2402,Strength training,8.00,19
+2403,Injury rehabilitation,5.00,18
+2404,Strength training,14.00,11
+2405,Strength training,13.00,10
+2406,Strength training,7.00,14
+2407,Injury rehabilitation,9.00,14
+2408,Injury rehabilitation,8.00,19
+2409,Dance,14.00,10
+2410,Yoga,6.00,18
+2411,Cardio,10.00,14
+2412,Yoga,6.00,16
+2413,Injury rehabilitation,10.00,10
+2414,Dance,6.00,16
+2415,Strength training,7.00,20
+2416,Dance,12.00,12
+2417,Yoga,10.00,15
+2418,Strength training,11.00,19
+2419,Dance,10.00,15
+2420,Cardio,11.00,10
+2421,Strength training,14.00,12
+2422,Strength training,8.00,11
+2423,Yoga,11.00,11
+2424,Strength training,5.00,14
+2425,Dance,8.00,18
+2426,Yoga,8.00,12
+2427,Cardio,14.00,11
+2428,Cardio,7.00,17
+2429,Dance,5.00,12
+2430,Strength training,14.00,17
+2431,Yoga,6.00,18
+2432,Dance,10.00,20
+2433,Dance,15.00,13
+2434,Injury rehabilitation,15.00,10
+2435,Strength training,12.00,14
+2436,Dance,14.00,13
+2437,Strength training,5.00,20
+2438,Yoga,10.00,20
+2439,Injury rehabilitation,10.00,10
+2440,Dance,14.00,13
+2441,Cardio,10.00,14
+2442,Injury rehabilitation,7.00,16
+2443,Dance,9.00,15
+2444,Strength training,12.00,20
+2445,Yoga,14.00,14
+2446,Strength training,10.00,20
+2447,Dance,6.00,16
+2448,Cardio,7.00,10
+2449,Yoga,5.00,16
+2450,Cardio,15.00,19
+2451,Cardio,6.00,20
+2452,Cardio,6.00,19
+2453,Cardio,15.00,19
+2454,Yoga,5.00,16
+2455,Strength training,14.00,16
+2456,Strength training,5.00,15
+2457,Strength training,8.00,10
+2458,Dance,8.00,14
+2459,Injury rehabilitation,15.00,19
+2460,Dance,11.00,12
+2461,Cardio,6.00,14
+2462,Strength training,12.00,12
+2463,Dance,11.00,14
+2464,Yoga,7.00,14
+2465,Injury rehabilitation,8.00,14
+2466,Strength training,5.00,15
+2467,Dance,6.00,12
+2468,Dance,9.00,18
+2469,Cardio,13.00,19
+2470,Yoga,13.00,20
+2471,Injury rehabilitation,9.00,10
+2472,Strength training,5.00,20
+2473,Injury rehabilitation,11.00,17
+2474,Dance,7.00,15
+2475,Dance,5.00,14
+2476,Yoga,10.00,18
+2477,Strength training,15.00,13
+2478,Dance,9.00,20
+2479,Strength training,7.00,20
+2480,Dance,11.00,13
+2481,Strength training,12.00,12
+2482,Injury rehabilitation,11.00,15
+2483,Cardio,14.00,20
+2484,Strength training,9.00,16
+2485,Strength training,8.00,19
+2486,Dance,11.00,19
+2487,Yoga,14.00,10
+2488,Injury rehabilitation,15.00,10
+2489,Strength training,10.00,18
+2490,Cardio,15.00,14
+2491,Strength training,10.00,13
+2492,Strength training,12.00,20
+2493,Injury rehabilitation,12.00,11
+2494,Dance,5.00,14
+2495,Injury rehabilitation,13.00,14
+2496,Dance,8.00,17
+2497,Strength training,10.00,11
+2498,Yoga,7.00,13
+2499,Dance,7.00,11
+2500,Dance,8.00,15
+2501,Dance,10.00,15
+2502,Dance,8.00,10
+2503,Injury rehabilitation,10.00,15
+2504,Yoga,15.00,19
+2505,Yoga,7.00,10
+2506,Yoga,5.00,13
+2507,Dance,9.00,14
+2508,Dance,10.00,11
+2509,Injury rehabilitation,12.00,11
+2510,Strength training,15.00,18
+2511,Dance,10.00,16
+2512,Dance,8.00,18
+2513,Cardio,12.00,11
+2514,Injury rehabilitation,12.00,11
+2515,Strength training,13.00,13
+2516,Dance,7.00,16
+2517,Strength training,10.00,13
+2518,Injury rehabilitation,7.00,11
+2519,Strength training,15.00,16
+2520,Injury rehabilitation,12.00,11
+2521,Dance,6.00,15
+2522,Dance,13.00,18
+2523,Injury rehabilitation,8.00,17
+2524,Injury rehabilitation,6.00,14
+2525,Yoga,12.00,17
+2526,Cardio,9.00,10
+2527,Cardio,10.00,10
+2528,Dance,10.00,19
+2529,Dance,8.00,20
+2530,Injury rehabilitation,14.00,12
+2531,Injury rehabilitation,12.00,18
+2532,Dance,14.00,19
+2533,Cardio,14.00,18
+2534,Yoga,14.00,12
+2535,Yoga,11.00,11
+2536,Strength training,11.00,10
+2537,Dance,13.00,16
+2538,Injury rehabilitation,5.00,18
+2539,Yoga,9.00,12
+2540,Dance,5.00,13
+2541,Dance,8.00,13
+2542,Cardio,6.00,11
+2543,Yoga,10.00,13
+2544,Dance,10.00,18
+2545,Injury rehabilitation,11.00,16
+2546,Yoga,13.00,15
+2547,Injury rehabilitation,9.00,10
+2548,Cardio,8.00,12
+2549,Dance,12.00,12
+2550,Cardio,8.00,14
+2551,Dance,13.00,17
+2552,Dance,10.00,13
+2553,Strength training,8.00,17
+2554,Dance,14.00,20
+2555,Dance,12.00,10
+2556,Injury rehabilitation,8.00,17
+2557,Dance,7.00,18
+2558,Yoga,11.00,11
+2559,Injury rehabilitation,6.00,19
+2560,Yoga,15.00,15
+2561,Yoga,15.00,20
+2562,Yoga,15.00,14
+2563,Dance,12.00,10
+2564,Dance,14.00,12
+2565,Dance,10.00,11
+2566,Yoga,7.00,17
+2567,Injury rehabilitation,11.00,11
+2568,Dance,13.00,10
+2569,Injury rehabilitation,7.00,20
+2570,Injury rehabilitation,8.00,20
+2571,Injury rehabilitation,5.00,11
+2572,Cardio,12.00,15
+2573,Yoga,14.00,16
+2574,Injury rehabilitation,13.00,11
+2575,Strength training,13.00,14
+2576,Yoga,7.00,13
+2577,Yoga,11.00,13
+2578,Dance,10.00,19
+2579,Strength training,15.00,10
+2580,Cardio,5.00,17
+2581,Yoga,11.00,20
+2582,Cardio,8.00,16
+2583,Yoga,14.00,20
+2584,Injury rehabilitation,11.00,17
+2585,Cardio,9.00,13
+2586,Dance,15.00,18
+2587,Cardio,9.00,17
+2588,Yoga,12.00,12
+2589,Cardio,8.00,13
+2590,Dance,12.00,11
+2591,Strength training,10.00,10
+2592,Yoga,14.00,12
+2593,Dance,14.00,11
+2594,Strength training,15.00,12
+2595,Cardio,5.00,14
+2596,Cardio,10.00,19
+2597,Dance,10.00,19
+2598,Cardio,10.00,12
+2599,Strength training,8.00,14
+2600,Cardio,13.00,11
+2601,Yoga,14.00,14
+2602,Yoga,7.00,15
+2603,Dance,11.00,19
+2604,Strength training,8.00,14
+2605,Cardio,9.00,10
+2606,Strength training,15.00,19
+2607,Dance,14.00,19
+2608,Strength training,15.00,10
+2609,Strength training,14.00,20
+2610,Yoga,9.00,11
+2611,Injury rehabilitation,8.00,17
+2612,Cardio,10.00,14
+2613,Yoga,15.00,17
+2614,Strength training,10.00,15
+2615,Dance,12.00,13
+2616,Dance,6.00,18
+2617,Yoga,9.00,15
+2618,Yoga,8.00,11
+2619,Injury rehabilitation,12.00,13
+2620,Cardio,10.00,15
+2621,Injury rehabilitation,8.00,19
+2622,Yoga,8.00,14
+2623,Dance,13.00,10
+2624,Dance,5.00,14
+2625,Yoga,8.00,15
+2626,Cardio,5.00,13
+2627,Cardio,6.00,17
+2628,Injury rehabilitation,12.00,12
+2629,Cardio,5.00,13
+2630,Dance,11.00,16
+2631,Injury rehabilitation,11.00,13
+2632,Cardio,12.00,17
+2633,Cardio,11.00,16
+2634,Injury rehabilitation,11.00,14
+2635,Dance,12.00,12
+2636,Strength training,15.00,15
+2637,Strength training,15.00,19
+2638,Cardio,9.00,11
+2639,Strength training,12.00,13
+2640,Dance,12.00,11
+2641,Dance,15.00,13
+2642,Dance,9.00,12
+2643,Cardio,11.00,16
+2644,Yoga,13.00,18
+2645,Dance,10.00,10
+2646,Injury rehabilitation,7.00,13
+2647,Yoga,13.00,19
+2648,Yoga,14.00,15
+2649,Injury rehabilitation,8.00,17
+2650,Injury rehabilitation,7.00,11
+2651,Dance,7.00,11
+2652,Yoga,8.00,15
+2653,Dance,7.00,18
+2654,Dance,8.00,13
+2655,Dance,8.00,19
+2656,Injury rehabilitation,15.00,14
+2657,Strength training,12.00,10
+2658,Dance,14.00,10
+2659,Strength training,13.00,20
+2660,Cardio,7.00,16
+2661,Dance,13.00,17
+2662,Injury rehabilitation,10.00,18
+2663,Cardio,14.00,13
+2664,Cardio,5.00,11
+2665,Injury rehabilitation,6.00,12
+2666,Injury rehabilitation,5.00,13
+2667,Injury rehabilitation,13.00,15
+2668,Injury rehabilitation,11.00,17
+2669,Cardio,15.00,15
+2670,Strength training,7.00,12
+2671,Yoga,14.00,15
+2672,Dance,14.00,12
+2673,Yoga,5.00,19
+2674,Injury rehabilitation,11.00,19
+2675,Dance,12.00,20
+2676,Injury rehabilitation,11.00,14
+2677,Cardio,10.00,15
+2678,Yoga,6.00,18
+2679,Yoga,14.00,18
+2680,Strength training,11.00,10
+2681,Strength training,14.00,18
+2682,Cardio,15.00,20
+2683,Yoga,13.00,12
+2684,Yoga,10.00,12
+2685,Strength training,12.00,15
+2686,Strength training,14.00,13
+2687,Cardio,8.00,12
+2688,Dance,6.00,10
+2689,Strength training,8.00,14
+2690,Injury rehabilitation,12.00,15
+2691,Strength training,12.00,17
+2692,Dance,7.00,16
+2693,Yoga,7.00,15
+2694,Strength training,8.00,14
+2695,Strength training,12.00,13
+2696,Cardio,11.00,11
+2697,Injury rehabilitation,9.00,18
+2698,Cardio,8.00,20
+2699,Yoga,15.00,16
+2700,Injury rehabilitation,6.00,19
+2701,Strength training,10.00,19
+2702,Injury rehabilitation,5.00,18
+2703,Cardio,6.00,14
+2704,Cardio,5.00,15
+2705,Dance,6.00,16
+2706,Strength training,7.00,15
+2707,Injury rehabilitation,11.00,17
+2708,Injury rehabilitation,12.00,19
+2709,Dance,10.00,18
+2710,Injury rehabilitation,12.00,10
+2711,Strength training,7.00,10
+2712,Cardio,9.00,12
+2713,Cardio,6.00,20
+2714,Dance,15.00,13
+2715,Cardio,5.00,14
+2716,Cardio,12.00,19
+2717,Strength training,7.00,10
+2718,Yoga,9.00,14
+2719,Injury rehabilitation,5.00,10
+2720,Strength training,5.00,14
+2721,Dance,7.00,13
+2722,Injury rehabilitation,10.00,13
+2723,Strength training,15.00,17
+2724,Yoga,12.00,15
+2725,Cardio,9.00,15
+2726,Strength training,5.00,18
+2727,Cardio,9.00,12
+2728,Strength training,15.00,13
+2729,Dance,8.00,18
+2730,Strength training,15.00,10
+2731,Strength training,15.00,15
+2732,Injury rehabilitation,13.00,16
+2733,Injury rehabilitation,5.00,15
+2734,Dance,10.00,13
+2735,Strength training,13.00,20
+2736,Cardio,5.00,13
+2737,Yoga,6.00,16
+2738,Cardio,13.00,12
+2739,Strength training,11.00,13
+2740,Strength training,11.00,17
+2741,Dance,15.00,19
+2742,Injury rehabilitation,6.00,16
+2743,Dance,13.00,10
+2744,Dance,14.00,17
+2745,Injury rehabilitation,11.00,19
+2746,Cardio,15.00,12
+2747,Cardio,15.00,15
+2748,Injury rehabilitation,12.00,13
+2749,Cardio,15.00,10
+2750,Injury rehabilitation,15.00,15
+2751,Strength training,14.00,18
+2752,Strength training,13.00,10
+2753,Injury rehabilitation,12.00,11
+2754,Cardio,9.00,12
+2755,Injury rehabilitation,13.00,13
+2756,Yoga,10.00,14
+2757,Cardio,14.00,13
+2758,Cardio,5.00,17
+2759,Cardio,6.00,11
+2760,Yoga,11.00,20
+2761,Injury rehabilitation,6.00,19
+2762,Yoga,15.00,15
+2763,Yoga,6.00,20
+2764,Dance,10.00,18
+2765,Strength training,7.00,15
+2766,Yoga,8.00,17
+2767,Cardio,7.00,20
+2768,Injury rehabilitation,13.00,13
+2769,Cardio,13.00,18
+2770,Yoga,5.00,11
+2771,Yoga,13.00,16
+2772,Dance,11.00,14
+2773,Injury rehabilitation,7.00,18
+2774,Strength training,8.00,11
+2775,Injury rehabilitation,10.00,15
+2776,Injury rehabilitation,9.00,15
+2777,Cardio,13.00,13
+2778,Injury rehabilitation,11.00,18
+2779,Dance,10.00,20
+2780,Injury rehabilitation,6.00,20
+2781,Injury rehabilitation,5.00,10
+2782,Yoga,9.00,10
+2783,Dance,11.00,18
+2784,Dance,13.00,18
+2785,Dance,10.00,18
+2786,Cardio,14.00,15
+2787,Cardio,9.00,17
+2788,Yoga,15.00,17
+2789,Injury rehabilitation,12.00,13
+2790,Yoga,11.00,12
+2791,Strength training,9.00,20
+2792,Injury rehabilitation,10.00,18
+2793,Strength training,8.00,18
+2794,Yoga,13.00,10
+2795,Cardio,15.00,20
+2796,Strength training,12.00,20
+2797,Dance,6.00,11
+2798,Strength training,10.00,19
+2799,Cardio,8.00,11
+2800,Yoga,12.00,10
+2801,Cardio,12.00,15
+2802,Dance,6.00,13
+2803,Strength training,10.00,13
+2804,Yoga,15.00,20
+2805,Injury rehabilitation,14.00,11
+2806,Cardio,8.00,19
+2807,Cardio,12.00,17
+2808,Injury rehabilitation,13.00,12
+2809,Dance,8.00,15
+2810,Dance,15.00,11
+2811,Strength training,8.00,13
+2812,Dance,8.00,12
+2813,Yoga,5.00,18
+2814,Cardio,5.00,18
+2815,Strength training,7.00,18
+2816,Yoga,11.00,20
+2817,Dance,6.00,20
+2818,Injury rehabilitation,7.00,19
+2819,Strength training,9.00,13
+2820,Yoga,12.00,19
+2821,Cardio,14.00,20
+2822,Yoga,12.00,18
+2823,Strength training,5.00,20
+2824,Cardio,5.00,20
+2825,Dance,15.00,15
+2826,Yoga,14.00,13
+2827,Strength training,15.00,11
+2828,Cardio,8.00,17
+2829,Cardio,11.00,13
+2830,Strength training,13.00,18
+2831,Strength training,6.00,14
+2832,Cardio,8.00,11
+2833,Strength training,10.00,14
+2834,Strength training,15.00,13
+2835,Dance,10.00,19
+2836,Dance,11.00,10
+2837,Dance,7.00,18
+2838,Dance,6.00,18
+2839,Cardio,7.00,20
+2840,Dance,6.00,11
+2841,Dance,10.00,12
+2842,Injury rehabilitation,10.00,16
+2843,Injury rehabilitation,10.00,14
+2844,Strength training,7.00,18
+2845,Injury rehabilitation,9.00,20
+2846,Injury rehabilitation,15.00,13
+2847,Strength training,10.00,10
+2848,Cardio,14.00,10
+2849,Strength training,12.00,15
+2850,Dance,13.00,14
+2851,Strength training,6.00,20
+2852,Strength training,6.00,11
+2853,Strength training,11.00,12
+2854,Strength training,8.00,10
+2855,Dance,9.00,15
+2856,Dance,10.00,16
+2857,Yoga,11.00,14
+2858,Cardio,15.00,10
+2859,Yoga,6.00,11
+2860,Yoga,6.00,12
+2861,Strength training,14.00,10
+2862,Cardio,15.00,18
+2863,Yoga,10.00,10
+2864,Yoga,5.00,19
+2865,Yoga,9.00,16
+2866,Cardio,10.00,11
+2867,Strength training,15.00,10
+2868,Yoga,15.00,10
+2869,Injury rehabilitation,7.00,17
+2870,Yoga,5.00,20
+2871,Strength training,11.00,15
+2872,Dance,10.00,17
+2873,Dance,11.00,13
+2874,Injury rehabilitation,13.00,16
+2875,Strength training,12.00,20
+2876,Dance,6.00,11
+2877,Strength training,6.00,13
+2878,Cardio,5.00,16
+2879,Cardio,6.00,15
+2880,Dance,7.00,10
+2881,Dance,7.00,16
+2882,Cardio,8.00,15
+2883,Dance,13.00,11
+2884,Strength training,11.00,16
+2885,Yoga,11.00,13
+2886,Cardio,7.00,17
+2887,Cardio,14.00,10
+2888,Yoga,13.00,19
+2889,Cardio,7.00,13
+2890,Injury rehabilitation,15.00,19
+2891,Injury rehabilitation,15.00,15
+2892,Yoga,15.00,14
+2893,Dance,13.00,17
+2894,Dance,6.00,15
+2895,Dance,6.00,20
+2896,Cardio,15.00,12
+2897,Cardio,13.00,16
+2898,Injury rehabilitation,5.00,13
+2899,Injury rehabilitation,14.00,12
+2900,Yoga,8.00,16
+2901,Strength training,6.00,10
+2902,Yoga,15.00,18
+2903,Injury rehabilitation,7.00,15
+2904,Dance,10.00,19
+2905,Injury rehabilitation,11.00,15
+2906,Yoga,12.00,12
+2907,Strength training,15.00,20
+2908,Injury rehabilitation,10.00,12
+2909,Dance,12.00,12
+2910,Cardio,9.00,18
+2911,Cardio,5.00,19
+2912,Injury rehabilitation,12.00,16
+2913,Strength training,13.00,15
+2914,Injury rehabilitation,14.00,14
+2915,Injury rehabilitation,13.00,19
+2916,Strength training,15.00,16
+2917,Dance,9.00,14
+2918,Dance,8.00,16
+2919,Cardio,11.00,19
+2920,Cardio,10.00,13
+2921,Yoga,15.00,12
+2922,Strength training,5.00,19
+2923,Injury rehabilitation,7.00,11
+2924,Cardio,10.00,13
+2925,Dance,15.00,12
+2926,Yoga,14.00,18
+2927,Dance,5.00,13
+2928,Dance,14.00,15
+2929,Yoga,11.00,10
+2930,Yoga,12.00,19
+2931,Strength training,13.00,12
+2932,Cardio,5.00,17
+2933,Yoga,12.00,12
+2934,Yoga,9.00,17
+2935,Injury rehabilitation,13.00,19
+2936,Dance,11.00,10
+2937,Yoga,8.00,10
+2938,Dance,5.00,13
+2939,Yoga,8.00,17
+2940,Yoga,12.00,19
+2941,Injury rehabilitation,14.00,17
+2942,Dance,8.00,15
+2943,Cardio,14.00,11
+2944,Injury rehabilitation,12.00,18
+2945,Strength training,14.00,18
+2946,Dance,6.00,19
+2947,Strength training,6.00,17
+2948,Injury rehabilitation,12.00,13
+2949,Yoga,8.00,11
+2950,Dance,10.00,10
+2951,Injury rehabilitation,5.00,10
+2952,Dance,8.00,12
+2953,Dance,10.00,13
+2954,Yoga,9.00,18
+2955,Injury rehabilitation,13.00,19
+2956,Dance,8.00,10
+2957,Injury rehabilitation,5.00,16
+2958,Dance,6.00,13
+2959,Injury rehabilitation,11.00,18
+2960,Injury rehabilitation,11.00,12
+2961,Strength training,13.00,14
+2962,Injury rehabilitation,11.00,12
+2963,Injury rehabilitation,8.00,20
+2964,Dance,11.00,14
+2965,Strength training,10.00,10
+2966,Cardio,12.00,17
+2967,Cardio,10.00,12
+2968,Strength training,11.00,15
+2969,Yoga,12.00,12
+2970,Injury rehabilitation,6.00,14
+2971,Injury rehabilitation,11.00,20
+2972,Injury rehabilitation,13.00,10
+2973,Yoga,11.00,17
+2974,Cardio,6.00,18
+2975,Cardio,5.00,11
+2976,Cardio,14.00,17
+2977,Cardio,9.00,14
+2978,Cardio,10.00,14
+2979,Yoga,12.00,20
+2980,Strength training,10.00,14
+2981,Injury rehabilitation,6.00,17
+2982,Injury rehabilitation,8.00,19
+2983,Yoga,9.00,15
+2984,Cardio,15.00,11
+2985,Yoga,12.00,17
+2986,Injury rehabilitation,14.00,10
+2987,Yoga,10.00,16
+2988,Cardio,5.00,10
+2989,Yoga,11.00,12
+2990,Cardio,6.00,17
+2991,Cardio,6.00,10
+2992,Injury rehabilitation,7.00,13
+2993,Strength training,10.00,15
+2994,Strength training,5.00,19
+2995,Cardio,9.00,19
+2996,Cardio,14.00,14
+2997,Yoga,11.00,15
+2998,Dance,13.00,13
+2999,Cardio,7.00,20
+3000,Injury rehabilitation,9.00,11
+3001,Cardio,5.00,17
+3002,Strength training,9.00,10
+3003,Cardio,6.00,17
+3004,Yoga,9.00,13
+3005,Dance,9.00,18
+3006,Dance,9.00,10
+3007,Strength training,7.00,12
+3008,Dance,9.00,17
+3009,Yoga,5.00,12
+3010,Strength training,6.00,20
+3011,Strength training,8.00,15
+3012,Yoga,10.00,12
+3013,Injury rehabilitation,10.00,12
+3014,Injury rehabilitation,14.00,12
+3015,Strength training,6.00,19
+3016,Cardio,11.00,12
+3017,Yoga,7.00,16
+3018,Cardio,9.00,11
+3019,Strength training,7.00,17
+3020,Cardio,8.00,11
+3021,Strength training,14.00,12
+3022,Cardio,15.00,11
+3023,Dance,15.00,10
+3024,Strength training,11.00,15
+3025,Strength training,5.00,20
+3026,Dance,9.00,19
+3027,Dance,7.00,13
+3028,Injury rehabilitation,10.00,10
+3029,Injury rehabilitation,10.00,15
+3030,Injury rehabilitation,10.00,16
+3031,Cardio,8.00,19
+3032,Injury rehabilitation,12.00,14
+3033,Cardio,14.00,12
+3034,Injury rehabilitation,8.00,12
+3035,Yoga,12.00,12
+3036,Cardio,15.00,10
+3037,Cardio,15.00,18
+3038,Strength training,13.00,18
+3039,Injury rehabilitation,12.00,20
+3040,Cardio,5.00,20
+3041,Dance,15.00,17
+3042,Yoga,11.00,12
+3043,Yoga,8.00,16
+3044,Strength training,10.00,19
+3045,Cardio,12.00,13
+3046,Strength training,15.00,12
+3047,Injury rehabilitation,7.00,10
+3048,Cardio,13.00,10
+3049,Yoga,13.00,13
+3050,Injury rehabilitation,14.00,17
+3051,Cardio,8.00,16
+3052,Dance,12.00,16
+3053,Injury rehabilitation,15.00,19
+3054,Dance,13.00,20
+3055,Strength training,9.00,18
+3056,Dance,10.00,10
+3057,Yoga,11.00,18
+3058,Injury rehabilitation,11.00,14
+3059,Cardio,14.00,13
+3060,Injury rehabilitation,11.00,11
+3061,Cardio,10.00,16
+3062,Strength training,5.00,17
+3063,Yoga,11.00,18
+3064,Yoga,9.00,19
+3065,Strength training,6.00,10
+3066,Injury rehabilitation,7.00,13
+3067,Strength training,11.00,18
+3068,Injury rehabilitation,6.00,18
+3069,Dance,5.00,14
+3070,Yoga,6.00,13
+3071,Injury rehabilitation,15.00,16
+3072,Dance,13.00,15
+3073,Cardio,5.00,18
+3074,Yoga,5.00,15
+3075,Injury rehabilitation,7.00,14
+3076,Dance,6.00,10
+3077,Yoga,8.00,11
+3078,Injury rehabilitation,10.00,11
+3079,Dance,9.00,13
+3080,Dance,7.00,19
+3081,Cardio,13.00,13
+3082,Cardio,7.00,18
+3083,Strength training,6.00,10
+3084,Injury rehabilitation,15.00,18
+3085,Strength training,10.00,14
+3086,Strength training,12.00,20
+3087,Cardio,8.00,13
+3088,Injury rehabilitation,15.00,17
+3089,Dance,13.00,18
+3090,Dance,7.00,19
+3091,Injury rehabilitation,13.00,18
+3092,Cardio,14.00,17
+3093,Cardio,13.00,16
+3094,Yoga,5.00,13
+3095,Dance,8.00,12
+3096,Injury rehabilitation,9.00,18
+3097,Injury rehabilitation,15.00,18
+3098,Cardio,14.00,20
+3099,Injury rehabilitation,6.00,12
+3100,Dance,12.00,20
+3101,Injury rehabilitation,7.00,12
+3102,Yoga,15.00,19
+3103,Injury rehabilitation,8.00,11
+3104,Strength training,13.00,18
+3105,Dance,14.00,15
+3106,Yoga,7.00,19
+3107,Strength training,15.00,10
+3108,Yoga,11.00,15
+3109,Strength training,12.00,18
+3110,Strength training,14.00,15
+3111,Cardio,6.00,20
+3112,Dance,8.00,15
+3113,Injury rehabilitation,13.00,19
+3114,Strength training,10.00,10
+3115,Yoga,6.00,12
+3116,Strength training,7.00,16
+3117,Strength training,10.00,11
+3118,Cardio,13.00,12
+3119,Dance,5.00,11
+3120,Dance,12.00,20
+3121,Injury rehabilitation,10.00,10
+3122,Dance,8.00,19
+3123,Cardio,5.00,13
+3124,Dance,11.00,16
+3125,Yoga,9.00,12
+3126,Dance,8.00,14
+3127,Yoga,6.00,12
+3128,Cardio,13.00,14
+3129,Strength training,12.00,19
+3130,Strength training,5.00,13
+3131,Injury rehabilitation,11.00,16
+3132,Yoga,15.00,10
+3133,Strength training,8.00,10
+3134,Cardio,9.00,17
+3135,Cardio,15.00,13
+3136,Dance,13.00,15
+3137,Injury rehabilitation,13.00,13
+3138,Yoga,9.00,16
+3139,Strength training,15.00,11
+3140,Cardio,10.00,12
+3141,Dance,14.00,19
+3142,Strength training,11.00,18
+3143,Yoga,13.00,12
+3144,Yoga,13.00,12
+3145,Injury rehabilitation,7.00,11
+3146,Dance,8.00,13
+3147,Cardio,10.00,15
+3148,Cardio,13.00,11
+3149,Injury rehabilitation,14.00,12
+3150,Injury rehabilitation,8.00,20
+3151,Dance,7.00,17
+3152,Yoga,8.00,18
+3153,Yoga,9.00,15
+3154,Injury rehabilitation,13.00,17
+3155,Cardio,13.00,19
+3156,Dance,14.00,14
+3157,Yoga,15.00,17
+3158,Strength training,15.00,15
+3159,Yoga,8.00,19
+3160,Dance,14.00,14
+3161,Strength training,5.00,12
+3162,Dance,12.00,10
+3163,Strength training,15.00,15
+3164,Yoga,7.00,15
+3165,Injury rehabilitation,14.00,14
+3166,Strength training,9.00,12
+3167,Yoga,13.00,19
+3168,Dance,13.00,16
+3169,Yoga,11.00,19
+3170,Dance,14.00,16
+3171,Yoga,6.00,19
+3172,Strength training,9.00,14
+3173,Dance,13.00,17
+3174,Dance,6.00,19
+3175,Yoga,12.00,13
+3176,Dance,14.00,19
+3177,Yoga,9.00,17
+3178,Dance,13.00,10
+3179,Dance,12.00,12
+3180,Injury rehabilitation,6.00,10
+3181,Dance,5.00,19
+3182,Strength training,9.00,14
+3183,Dance,9.00,15
+3184,Cardio,10.00,10
+3185,Strength training,10.00,12
+3186,Injury rehabilitation,14.00,14
+3187,Cardio,12.00,14
+3188,Yoga,9.00,12
+3189,Yoga,8.00,17
+3190,Dance,15.00,14
+3191,Yoga,7.00,12
+3192,Injury rehabilitation,5.00,16
+3193,Yoga,14.00,20
+3194,Strength training,14.00,12
+3195,Dance,13.00,15
+3196,Cardio,8.00,10
+3197,Strength training,5.00,10
+3198,Cardio,15.00,18
+3199,Yoga,10.00,13
+3200,Yoga,14.00,20
+3201,Injury rehabilitation,8.00,10
+3202,Cardio,12.00,15
+3203,Injury rehabilitation,11.00,12
+3204,Dance,6.00,10
+3205,Yoga,7.00,13
+3206,Cardio,7.00,18
+3207,Dance,6.00,10
+3208,Strength training,13.00,20
+3209,Injury rehabilitation,10.00,20
+3210,Injury rehabilitation,5.00,20
+3211,Injury rehabilitation,7.00,14
+3212,Strength training,14.00,16
+3213,Injury rehabilitation,11.00,16
+3214,Dance,15.00,14
+3215,Yoga,13.00,17
+3216,Yoga,5.00,13
+3217,Cardio,5.00,10
+3218,Injury rehabilitation,13.00,19
+3219,Yoga,9.00,20
+3220,Yoga,11.00,19
+3221,Yoga,15.00,17
+3222,Injury rehabilitation,5.00,14
+3223,Injury rehabilitation,6.00,20
+3224,Strength training,10.00,13
+3225,Yoga,8.00,19
+3226,Cardio,11.00,14
+3227,Strength training,6.00,16
+3228,Injury rehabilitation,5.00,19
+3229,Cardio,11.00,12
+3230,Cardio,6.00,20
+3231,Cardio,13.00,18
+3232,Yoga,12.00,10
+3233,Injury rehabilitation,13.00,16
+3234,Strength training,11.00,15
+3235,Strength training,14.00,16
+3236,Cardio,7.00,14
+3237,Yoga,14.00,17
+3238,Injury rehabilitation,5.00,10
+3239,Cardio,8.00,13
+3240,Strength training,12.00,15
+3241,Strength training,7.00,10
+3242,Cardio,5.00,14
+3243,Yoga,15.00,13
+3244,Injury rehabilitation,10.00,13
+3245,Yoga,13.00,15
+3246,Injury rehabilitation,10.00,20
+3247,Strength training,13.00,18
+3248,Strength training,14.00,18
+3249,Cardio,5.00,19
+3250,Injury rehabilitation,14.00,11
+3251,Strength training,12.00,19
+3252,Strength training,5.00,17
+3253,Injury rehabilitation,7.00,19
+3254,Yoga,15.00,11
+3255,Strength training,5.00,15
+3256,Yoga,6.00,12
+3257,Yoga,14.00,13
+3258,Cardio,10.00,13
+3259,Strength training,13.00,10
+3260,Dance,5.00,13
+3261,Injury rehabilitation,12.00,13
+3262,Cardio,15.00,20
+3263,Cardio,11.00,11
+3264,Yoga,6.00,20
+3265,Strength training,13.00,13
+3266,Injury rehabilitation,6.00,15
+3267,Injury rehabilitation,9.00,19
+3268,Cardio,5.00,20
+3269,Injury rehabilitation,12.00,15
+3270,Yoga,14.00,11
+3271,Injury rehabilitation,7.00,17
+3272,Injury rehabilitation,10.00,20
+3273,Yoga,7.00,20
+3274,Strength training,15.00,12
+3275,Injury rehabilitation,13.00,20
+3276,Yoga,14.00,20
+3277,Strength training,6.00,18
+3278,Dance,9.00,12
+3279,Cardio,13.00,18
+3280,Injury rehabilitation,14.00,20
+3281,Yoga,8.00,20
+3282,Yoga,7.00,12
+3283,Injury rehabilitation,11.00,19
+3284,Dance,13.00,11
+3285,Dance,9.00,17
+3286,Dance,11.00,11
+3287,Yoga,13.00,11
+3288,Injury rehabilitation,13.00,16
+3289,Cardio,15.00,11
+3290,Dance,12.00,17
+3291,Cardio,12.00,11
+3292,Dance,12.00,17
+3293,Dance,7.00,12
+3294,Dance,12.00,12
+3295,Yoga,13.00,12
+3296,Cardio,12.00,17
+3297,Yoga,11.00,20
+3298,Strength training,5.00,10
+3299,Yoga,11.00,16
+3300,Cardio,15.00,18
+3301,Cardio,14.00,10
+3302,Strength training,8.00,17
+3303,Strength training,15.00,13
+3304,Strength training,8.00,16
+3305,Yoga,13.00,16
+3306,Dance,14.00,20
+3307,Yoga,6.00,13
+3308,Yoga,10.00,11
+3309,Cardio,14.00,16
+3310,Dance,7.00,15
+3311,Cardio,8.00,12
+3312,Yoga,15.00,14
+3313,Dance,11.00,20
+3314,Strength training,11.00,18
+3315,Yoga,12.00,15
+3316,Yoga,6.00,18
+3317,Injury rehabilitation,14.00,16
+3318,Cardio,12.00,15
+3319,Cardio,9.00,10
+3320,Injury rehabilitation,9.00,20
+3321,Cardio,11.00,13
+3322,Dance,15.00,14
+3323,Yoga,8.00,19
+3324,Cardio,8.00,18
+3325,Strength training,7.00,13
+3326,Strength training,11.00,20
+3327,Cardio,14.00,11
+3328,Strength training,11.00,10
+3329,Yoga,8.00,19
+3330,Injury rehabilitation,8.00,11
+3331,Dance,6.00,11
+3332,Cardio,13.00,11
+3333,Injury rehabilitation,15.00,11
+3334,Dance,6.00,19
+3335,Cardio,15.00,10
+3336,Strength training,14.00,13
+3337,Dance,6.00,14
+3338,Dance,5.00,10
+3339,Strength training,8.00,15
+3340,Injury rehabilitation,11.00,20
+3341,Dance,5.00,12
+3342,Yoga,9.00,12
+3343,Dance,10.00,16
+3344,Strength training,15.00,16
+3345,Strength training,5.00,13
+3346,Strength training,5.00,16
+3347,Strength training,13.00,10
+3348,Injury rehabilitation,6.00,15
+3349,Yoga,11.00,13
+3350,Cardio,7.00,15
+3351,Yoga,14.00,11
+3352,Dance,11.00,13
+3353,Cardio,6.00,18
+3354,Strength training,9.00,20
+3355,Cardio,11.00,15
+3356,Dance,8.00,14
+3357,Strength training,6.00,18
+3358,Dance,12.00,19
+3359,Injury rehabilitation,8.00,11
+3360,Strength training,14.00,20
+3361,Cardio,12.00,19
+3362,Dance,5.00,16
+3363,Injury rehabilitation,14.00,19
+3364,Injury rehabilitation,9.00,20
+3365,Yoga,11.00,10
+3366,Yoga,10.00,12
+3367,Cardio,12.00,14
+3368,Yoga,14.00,20
+3369,Yoga,8.00,11
+3370,Injury rehabilitation,6.00,15
+3371,Cardio,10.00,11
+3372,Yoga,10.00,18
+3373,Strength training,5.00,19
+3374,Cardio,9.00,17
+3375,Strength training,7.00,10
+3376,Strength training,7.00,12
+3377,Cardio,14.00,12
+3378,Yoga,14.00,10
+3379,Strength training,12.00,11
+3380,Strength training,10.00,15
+3381,Injury rehabilitation,14.00,17
+3382,Dance,7.00,18
+3383,Dance,13.00,11
+3384,Cardio,11.00,20
+3385,Strength training,5.00,14
+3386,Yoga,15.00,20
+3387,Injury rehabilitation,14.00,10
+3388,Dance,11.00,13
+3389,Strength training,5.00,20
+3390,Injury rehabilitation,6.00,11
+3391,Strength training,12.00,20
+3392,Injury rehabilitation,7.00,15
+3393,Yoga,11.00,18
+3394,Yoga,7.00,10
+3395,Strength training,5.00,11
+3396,Dance,13.00,16
+3397,Strength training,12.00,17
+3398,Strength training,8.00,16
+3399,Strength training,7.00,17
+3400,Injury rehabilitation,15.00,18
+3401,Dance,7.00,19
+3402,Strength training,14.00,12
+3403,Yoga,5.00,17
+3404,Strength training,14.00,13
+3405,Strength training,13.00,13
+3406,Cardio,15.00,13
+3407,Cardio,7.00,19
+3408,Dance,13.00,11
+3409,Strength training,9.00,11
+3410,Dance,13.00,14
+3411,Cardio,13.00,20
+3412,Cardio,12.00,10
+3413,Cardio,9.00,13
+3414,Cardio,9.00,16
+3415,Yoga,13.00,11
+3416,Strength training,13.00,13
+3417,Cardio,8.00,18
+3418,Injury rehabilitation,6.00,17
+3419,Yoga,15.00,20
+3420,Dance,9.00,20
+3421,Cardio,12.00,20
+3422,Yoga,10.00,17
+3423,Dance,8.00,19
+3424,Strength training,6.00,19
+3425,Cardio,10.00,11
+3426,Injury rehabilitation,12.00,16
+3427,Strength training,6.00,17
+3428,Strength training,12.00,14
+3429,Dance,9.00,16
+3430,Strength training,6.00,17
+3431,Cardio,8.00,11
+3432,Cardio,13.00,18
+3433,Injury rehabilitation,9.00,11
+3434,Injury rehabilitation,12.00,16
+3435,Injury rehabilitation,6.00,14
+3436,Cardio,5.00,17
+3437,Injury rehabilitation,13.00,12
+3438,Cardio,12.00,10
+3439,Strength training,7.00,12
+3440,Dance,5.00,12
+3441,Cardio,10.00,12
+3442,Yoga,14.00,19
+3443,Injury rehabilitation,10.00,17
+3444,Strength training,7.00,12
+3445,Yoga,7.00,18
+3446,Cardio,15.00,13
+3447,Dance,10.00,10
+3448,Injury rehabilitation,10.00,20
+3449,Cardio,8.00,19
+3450,Dance,10.00,12
+3451,Injury rehabilitation,13.00,18
+3452,Cardio,10.00,18
+3453,Strength training,12.00,20
+3454,Dance,15.00,14
+3455,Injury rehabilitation,15.00,10
+3456,Strength training,12.00,13
+3457,Strength training,12.00,19
+3458,Dance,8.00,13
+3459,Dance,9.00,15
+3460,Yoga,12.00,20
+3461,Yoga,6.00,17
+3462,Strength training,6.00,17
+3463,Strength training,8.00,16
+3464,Cardio,5.00,11
+3465,Yoga,7.00,20
+3466,Yoga,9.00,14
+3467,Strength training,7.00,17
+3468,Strength training,14.00,18
+3469,Strength training,11.00,12
+3470,Injury rehabilitation,13.00,12
+3471,Injury rehabilitation,6.00,16
+3472,Yoga,12.00,15
+3473,Strength training,11.00,17
+3474,Cardio,8.00,16
+3475,Yoga,9.00,12
+3476,Cardio,15.00,15
+3477,Injury rehabilitation,6.00,10
+3478,Dance,13.00,15
+3479,Dance,15.00,17
+3480,Strength training,8.00,18
+3481,Dance,14.00,10
+3482,Injury rehabilitation,5.00,14
+3483,Strength training,14.00,12
+3484,Strength training,9.00,14
+3485,Cardio,14.00,14
+3486,Cardio,8.00,11
+3487,Cardio,6.00,18
+3488,Dance,12.00,12
+3489,Dance,13.00,16
+3490,Injury rehabilitation,13.00,10
+3491,Cardio,10.00,19
+3492,Dance,6.00,15
+3493,Dance,9.00,18
+3494,Strength training,8.00,10
+3495,Injury rehabilitation,11.00,10
+3496,Dance,12.00,14
+3497,Injury rehabilitation,9.00,20
+3498,Dance,10.00,13
+3499,Dance,13.00,17
+3500,Strength training,9.00,14
+3501,Injury rehabilitation,6.00,13
+3502,Strength training,5.00,17
+3503,Strength training,12.00,20
+3504,Dance,6.00,17
+3505,Injury rehabilitation,10.00,11
+3506,Dance,6.00,16
+3507,Injury rehabilitation,12.00,17
+3508,Cardio,12.00,14
+3509,Yoga,14.00,11
+3510,Cardio,9.00,12
+3511,Yoga,12.00,11
+3512,Yoga,9.00,10
+3513,Injury rehabilitation,10.00,17
+3514,Yoga,6.00,11
+3515,Strength training,7.00,14
+3516,Dance,13.00,13
+3517,Injury rehabilitation,5.00,10
+3518,Dance,11.00,18
+3519,Yoga,7.00,14
+3520,Strength training,14.00,12
+3521,Strength training,14.00,17
+3522,Injury rehabilitation,8.00,16
+3523,Yoga,13.00,19
+3524,Yoga,7.00,12
+3525,Injury rehabilitation,14.00,14
+3526,Yoga,13.00,14
+3527,Cardio,10.00,17
+3528,Injury rehabilitation,10.00,18
+3529,Yoga,14.00,10
+3530,Injury rehabilitation,15.00,11
+3531,Injury rehabilitation,6.00,17
+3532,Injury rehabilitation,6.00,14
+3533,Injury rehabilitation,10.00,17
+3534,Strength training,7.00,16
+3535,Yoga,8.00,17
+3536,Strength training,15.00,16
+3537,Yoga,12.00,15
+3538,Strength training,15.00,11
+3539,Injury rehabilitation,8.00,11
+3540,Strength training,9.00,10
+3541,Dance,10.00,14
+3542,Dance,11.00,15
+3543,Yoga,14.00,13
+3544,Cardio,6.00,13
+3545,Dance,11.00,18
+3546,Dance,12.00,15
+3547,Strength training,8.00,14
+3548,Cardio,5.00,16
+3549,Yoga,13.00,17
+3550,Strength training,15.00,10
+3551,Yoga,15.00,16
+3552,Strength training,12.00,10
+3553,Strength training,8.00,20
+3554,Dance,5.00,10
+3555,Dance,13.00,10
+3556,Injury rehabilitation,8.00,15
+3557,Strength training,7.00,12
+3558,Cardio,8.00,15
+3559,Injury rehabilitation,11.00,16
+3560,Strength training,15.00,12
+3561,Cardio,13.00,20
+3562,Cardio,10.00,12
+3563,Cardio,15.00,18
+3564,Strength training,9.00,18
+3565,Yoga,14.00,18
+3566,Cardio,11.00,10
+3567,Injury rehabilitation,13.00,13
+3568,Strength training,15.00,13
+3569,Injury rehabilitation,14.00,11
+3570,Strength training,5.00,17
+3571,Cardio,8.00,10
+3572,Injury rehabilitation,13.00,15
+3573,Yoga,14.00,17
+3574,Injury rehabilitation,8.00,15
+3575,Injury rehabilitation,11.00,16
+3576,Cardio,9.00,14
+3577,Yoga,12.00,12
+3578,Dance,7.00,20
+3579,Cardio,7.00,20
+3580,Dance,11.00,20
+3581,Dance,15.00,19
+3582,Strength training,7.00,17
+3583,Yoga,5.00,11
+3584,Dance,13.00,14
+3585,Strength training,7.00,19
+3586,Yoga,5.00,12
+3587,Injury rehabilitation,9.00,12
+3588,Strength training,13.00,15
+3589,Dance,10.00,10
+3590,Yoga,12.00,11
+3591,Dance,15.00,16
+3592,Cardio,11.00,13
+3593,Cardio,7.00,20
+3594,Injury rehabilitation,6.00,11
+3595,Strength training,13.00,12
+3596,Injury rehabilitation,5.00,12
+3597,Cardio,10.00,17
+3598,Yoga,11.00,12
+3599,Injury rehabilitation,14.00,13
+3600,Injury rehabilitation,14.00,19
+3601,Injury rehabilitation,7.00,14
+3602,Strength training,11.00,10
+3603,Yoga,15.00,16
+3604,Cardio,12.00,19
+3605,Dance,7.00,14
+3606,Cardio,15.00,14
+3607,Dance,7.00,18
+3608,Dance,9.00,18
+3609,Cardio,9.00,13
+3610,Cardio,7.00,17
+3611,Strength training,14.00,17
+3612,Injury rehabilitation,10.00,11
+3613,Dance,9.00,12
+3614,Cardio,15.00,13
+3615,Dance,6.00,19
+3616,Strength training,15.00,18
+3617,Dance,8.00,19
+3618,Dance,15.00,20
+3619,Cardio,5.00,20
+3620,Cardio,11.00,18
+3621,Yoga,15.00,15
+3622,Yoga,11.00,10
+3623,Dance,11.00,11
+3624,Strength training,14.00,19
+3625,Strength training,9.00,19
+3626,Injury rehabilitation,13.00,13
+3627,Cardio,11.00,14
+3628,Cardio,7.00,17
+3629,Yoga,7.00,10
+3630,Dance,9.00,16
+3631,Cardio,7.00,14
+3632,Dance,6.00,18
+3633,Cardio,8.00,18
+3634,Dance,9.00,10
+3635,Dance,11.00,20
+3636,Dance,13.00,19
+3637,Cardio,13.00,11
+3638,Dance,12.00,12
+3639,Injury rehabilitation,14.00,12
+3640,Strength training,15.00,14
+3641,Cardio,8.00,19
+3642,Yoga,14.00,11
+3643,Injury rehabilitation,9.00,18
+3644,Yoga,6.00,20
+3645,Yoga,13.00,10
+3646,Dance,5.00,14
+3647,Dance,7.00,16
+3648,Cardio,9.00,16
+3649,Dance,8.00,10
+3650,Cardio,15.00,14
+3651,Injury rehabilitation,13.00,17
+3652,Strength training,10.00,17
+3653,Yoga,14.00,10
+3654,Cardio,6.00,13
+3655,Cardio,5.00,20
+3656,Cardio,7.00,13
+3657,Injury rehabilitation,7.00,16
+3658,Dance,9.00,20
+3659,Yoga,15.00,14
+3660,Strength training,15.00,17
+3661,Strength training,11.00,14
+3662,Strength training,5.00,18
+3663,Dance,11.00,20
+3664,Dance,14.00,12
+3665,Injury rehabilitation,10.00,13
+3666,Yoga,5.00,10
+3667,Yoga,9.00,18
+3668,Cardio,11.00,20
+3669,Cardio,15.00,10
+3670,Strength training,9.00,19
+3671,Yoga,5.00,19
+3672,Dance,15.00,12
+3673,Yoga,10.00,14
+3674,Injury rehabilitation,15.00,10
+3675,Strength training,10.00,11
+3676,Strength training,11.00,13
+3677,Yoga,15.00,13
+3678,Injury rehabilitation,14.00,20
+3679,Yoga,7.00,12
+3680,Yoga,13.00,17
+3681,Injury rehabilitation,7.00,12
+3682,Strength training,15.00,20
+3683,Cardio,14.00,13
+3684,Yoga,10.00,16
+3685,Cardio,9.00,17
+3686,Cardio,5.00,19
+3687,Strength training,5.00,17
+3688,Dance,10.00,19
+3689,Injury rehabilitation,12.00,13
+3690,Yoga,15.00,13
+3691,Dance,5.00,14
+3692,Strength training,9.00,12
+3693,Yoga,8.00,19
+3694,Cardio,5.00,12
+3695,Yoga,10.00,13
+3696,Yoga,12.00,15
+3697,Strength training,9.00,18
+3698,Yoga,10.00,10
+3699,Dance,9.00,16
+3700,Yoga,8.00,18
+3701,Yoga,9.00,10
+3702,Dance,11.00,20
+3703,Dance,10.00,12
+3704,Strength training,5.00,19
+3705,Dance,11.00,16
+3706,Injury rehabilitation,8.00,12
+3707,Cardio,9.00,14
+3708,Injury rehabilitation,9.00,17
+3709,Yoga,14.00,16
+3710,Strength training,12.00,13
+3711,Strength training,6.00,17
+3712,Injury rehabilitation,9.00,19
+3713,Cardio,13.00,19
+3714,Cardio,6.00,19
+3715,Dance,7.00,17
+3716,Cardio,12.00,14
+3717,Strength training,7.00,12
+3718,Cardio,10.00,12
+3719,Dance,9.00,12
+3720,Strength training,9.00,13
+3721,Injury rehabilitation,7.00,11
+3722,Injury rehabilitation,7.00,13
+3723,Yoga,13.00,12
+3724,Yoga,9.00,19
+3725,Dance,13.00,16
+3726,Dance,11.00,13
+3727,Yoga,15.00,11
+3728,Strength training,6.00,13
+3729,Injury rehabilitation,7.00,16
+3730,Strength training,5.00,18
+3731,Strength training,15.00,16
+3732,Yoga,10.00,14
+3733,Injury rehabilitation,8.00,17
+3734,Injury rehabilitation,6.00,16
+3735,Strength training,8.00,19
+3736,Injury rehabilitation,11.00,18
+3737,Dance,5.00,15
+3738,Dance,14.00,13
+3739,Strength training,7.00,20
+3740,Cardio,6.00,20
+3741,Dance,12.00,14
+3742,Injury rehabilitation,15.00,12
+3743,Dance,14.00,16
+3744,Cardio,14.00,18
+3745,Injury rehabilitation,7.00,13
+3746,Injury rehabilitation,15.00,20
+3747,Yoga,10.00,17
+3748,Cardio,6.00,19
+3749,Dance,6.00,16
+3750,Cardio,5.00,20
+3751,Dance,8.00,17
+3752,Cardio,10.00,16
+3753,Strength training,15.00,11
+3754,Cardio,15.00,12
+3755,Strength training,15.00,17
+3756,Cardio,9.00,15
+3757,Yoga,15.00,12
+3758,Cardio,8.00,14
+3759,Injury rehabilitation,5.00,13
+3760,Strength training,11.00,15
+3761,Cardio,14.00,12
+3762,Injury rehabilitation,5.00,11
+3763,Injury rehabilitation,5.00,19
+3764,Dance,9.00,19
+3765,Dance,7.00,20
+3766,Injury rehabilitation,13.00,10
+3767,Strength training,5.00,10
+3768,Dance,10.00,17
+3769,Injury rehabilitation,9.00,13
+3770,Cardio,7.00,10
+3771,Strength training,14.00,13
+3772,Strength training,13.00,17
+3773,Dance,13.00,16
+3774,Yoga,8.00,18
+3775,Yoga,12.00,12
+3776,Cardio,10.00,15
+3777,Yoga,12.00,12
+3778,Cardio,11.00,12
+3779,Dance,6.00,10
+3780,Strength training,14.00,19
+3781,Cardio,5.00,14
+3782,Injury rehabilitation,5.00,20
+3783,Injury rehabilitation,15.00,11
+3784,Dance,6.00,14
+3785,Yoga,5.00,15
+3786,Strength training,5.00,14
+3787,Injury rehabilitation,6.00,17
+3788,Injury rehabilitation,13.00,13
+3789,Strength training,5.00,16
+3790,Injury rehabilitation,14.00,16
+3791,Cardio,8.00,19
+3792,Dance,12.00,11
+3793,Strength training,10.00,20
+3794,Cardio,5.00,14
+3795,Cardio,15.00,14
+3796,Strength training,12.00,15
+3797,Injury rehabilitation,10.00,20
+3798,Cardio,8.00,13
+3799,Dance,5.00,20
+3800,Strength training,7.00,13
+3801,Yoga,8.00,10
+3802,Strength training,7.00,11
+3803,Strength training,6.00,12
+3804,Yoga,15.00,14
+3805,Injury rehabilitation,5.00,10
+3806,Strength training,15.00,19
+3807,Cardio,13.00,16
+3808,Injury rehabilitation,6.00,14
+3809,Strength training,6.00,16
+3810,Injury rehabilitation,14.00,15
+3811,Cardio,13.00,17
+3812,Dance,12.00,14
+3813,Injury rehabilitation,15.00,19
+3814,Yoga,10.00,17
+3815,Yoga,10.00,10
+3816,Strength training,13.00,16
+3817,Injury rehabilitation,8.00,18
+3818,Cardio,7.00,10
+3819,Cardio,11.00,20
+3820,Strength training,7.00,13
+3821,Dance,12.00,17
+3822,Dance,7.00,19
+3823,Yoga,11.00,13
+3824,Strength training,12.00,10
+3825,Yoga,7.00,17
+3826,Strength training,6.00,11
+3827,Cardio,11.00,17
+3828,Injury rehabilitation,9.00,11
+3829,Dance,15.00,19
+3830,Strength training,7.00,12
+3831,Cardio,6.00,16
+3832,Strength training,5.00,10
+3833,Yoga,13.00,18
+3834,Strength training,14.00,19
+3835,Yoga,10.00,10
+3836,Injury rehabilitation,6.00,15
+3837,Yoga,7.00,20
+3838,Cardio,14.00,17
+3839,Dance,11.00,13
+3840,Injury rehabilitation,8.00,17
+3841,Cardio,5.00,15
+3842,Injury rehabilitation,10.00,16
+3843,Dance,5.00,20
+3844,Injury rehabilitation,7.00,17
+3845,Injury rehabilitation,12.00,15
+3846,Strength training,14.00,14
+3847,Strength training,11.00,20
+3848,Dance,11.00,10
+3849,Dance,10.00,19
+3850,Cardio,9.00,11
+3851,Dance,13.00,17
+3852,Injury rehabilitation,14.00,18
+3853,Cardio,10.00,20
+3854,Strength training,11.00,14
+3855,Yoga,14.00,17
+3856,Injury rehabilitation,10.00,16
+3857,Cardio,15.00,16
+3858,Strength training,10.00,11
+3859,Strength training,13.00,15
+3860,Cardio,12.00,10
+3861,Strength training,12.00,18
+3862,Injury rehabilitation,15.00,16
+3863,Injury rehabilitation,6.00,15
+3864,Injury rehabilitation,8.00,17
+3865,Strength training,12.00,20
+3866,Injury rehabilitation,8.00,15
+3867,Injury rehabilitation,9.00,13
+3868,Injury rehabilitation,15.00,13
+3869,Strength training,6.00,10
+3870,Strength training,8.00,15
+3871,Yoga,6.00,17
+3872,Strength training,5.00,11
+3873,Strength training,15.00,20
+3874,Cardio,13.00,17
+3875,Yoga,14.00,14
+3876,Cardio,5.00,19
+3877,Injury rehabilitation,12.00,12
+3878,Dance,7.00,13
+3879,Injury rehabilitation,8.00,10
+3880,Cardio,6.00,19
+3881,Strength training,12.00,11
+3882,Dance,9.00,20
+3883,Strength training,15.00,16
+3884,Dance,10.00,12
+3885,Cardio,5.00,16
+3886,Dance,9.00,20
+3887,Injury rehabilitation,9.00,20
+3888,Strength training,11.00,13
+3889,Injury rehabilitation,13.00,17
+3890,Yoga,8.00,18
+3891,Yoga,5.00,11
+3892,Injury rehabilitation,9.00,20
+3893,Cardio,12.00,15
+3894,Yoga,13.00,16
+3895,Dance,10.00,11
+3896,Cardio,14.00,12
+3897,Yoga,10.00,19
+3898,Strength training,5.00,19
+3899,Dance,11.00,14
+3900,Cardio,8.00,13
+3901,Strength training,8.00,12
+3902,Dance,14.00,14
+3903,Yoga,10.00,19
+3904,Injury rehabilitation,14.00,13
+3905,Cardio,9.00,14
+3906,Dance,13.00,19
+3907,Dance,13.00,18
+3908,Cardio,9.00,13
+3909,Strength training,9.00,18
+3910,Strength training,8.00,14
+3911,Dance,7.00,11
+3912,Dance,6.00,16
+3913,Cardio,6.00,16
+3914,Cardio,7.00,18
+3915,Cardio,14.00,13
+3916,Strength training,5.00,16
+3917,Strength training,9.00,12
+3918,Yoga,12.00,17
+3919,Yoga,11.00,16
+3920,Yoga,9.00,10
+3921,Injury rehabilitation,7.00,20
+3922,Dance,14.00,16
+3923,Cardio,8.00,17
+3924,Yoga,8.00,13
+3925,Strength training,5.00,20
+3926,Dance,8.00,10
+3927,Dance,13.00,19
+3928,Dance,6.00,15
+3929,Yoga,8.00,18
+3930,Cardio,14.00,11
+3931,Yoga,9.00,13
+3932,Yoga,5.00,19
+3933,Injury rehabilitation,7.00,16
+3934,Injury rehabilitation,13.00,15
+3935,Injury rehabilitation,14.00,17
+3936,Strength training,8.00,19
+3937,Strength training,7.00,12
+3938,Cardio,12.00,15
+3939,Cardio,6.00,20
+3940,Dance,6.00,20
+3941,Dance,5.00,18
+3942,Strength training,9.00,20
+3943,Cardio,11.00,19
+3944,Strength training,5.00,14
+3945,Injury rehabilitation,15.00,20
+3946,Cardio,12.00,11
+3947,Yoga,9.00,18
+3948,Cardio,14.00,11
+3949,Dance,11.00,19
+3950,Yoga,9.00,19
+3951,Dance,8.00,10
+3952,Cardio,10.00,18
+3953,Injury rehabilitation,6.00,13
+3954,Cardio,10.00,10
+3955,Cardio,12.00,18
+3956,Dance,6.00,10
+3957,Strength training,13.00,16
+3958,Strength training,9.00,14
+3959,Cardio,11.00,13
+3960,Strength training,13.00,11
+3961,Injury rehabilitation,15.00,11
+3962,Yoga,13.00,14
+3963,Strength training,6.00,13
+3964,Dance,10.00,16
+3965,Injury rehabilitation,7.00,14
+3966,Yoga,9.00,19
+3967,Dance,10.00,10
+3968,Injury rehabilitation,13.00,14
+3969,Strength training,5.00,10
+3970,Dance,10.00,19
+3971,Strength training,11.00,13
+3972,Yoga,14.00,20
+3973,Yoga,14.00,20
+3974,Cardio,9.00,18
+3975,Dance,13.00,14
+3976,Dance,10.00,18
+3977,Dance,11.00,10
+3978,Dance,11.00,14
+3979,Yoga,10.00,11
+3980,Strength training,5.00,15
+3981,Strength training,15.00,19
+3982,Strength training,14.00,13
+3983,Dance,5.00,13
+3984,Strength training,13.00,18
+3985,Strength training,13.00,17
+3986,Injury rehabilitation,5.00,12
+3987,Yoga,5.00,19
+3988,Cardio,15.00,10
+3989,Dance,5.00,13
+3990,Cardio,8.00,17
+3991,Strength training,15.00,17
+3992,Injury rehabilitation,9.00,17
+3993,Injury rehabilitation,7.00,10
+3994,Strength training,14.00,15
+3995,Cardio,14.00,10
+3996,Yoga,15.00,15
+3997,Cardio,11.00,19
+3998,Dance,8.00,18
+3999,Yoga,14.00,12
+4000,Injury rehabilitation,11.00,14
