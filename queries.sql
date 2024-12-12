@@ -29,12 +29,12 @@ WHERE ta.IsMainTrainer = true
 GROUP BY a.ActivityID, a.ActivityType, s.StartTime, s.EndTime;
 
 -- 3
-SELECT fc.Name, COUNT(DISTINCT s.ScheduleID) as ActivityCount
+SELECT fc.Name, COUNT(*) as ActivityCount
 FROM FitnessCenter fc
 JOIN Trainer t ON fc.FitnessCenterID = t.FitnessCenterID
 JOIN TrainerActivity ta ON t.TrainerID = ta.TrainerID
 JOIN Schedule s ON ta.ActivityID = s.ActivityID
-GROUP BY fc.FitnessCenterID, fc.Name
+GROUP BY fc.FitnessCenterID
 ORDER BY ActivityCount DESC
 LIMIT 3;
 
@@ -70,16 +70,9 @@ WHERE EXTRACT(YEAR FROM s.StartTime) BETWEEN 2019 AND 2022;
 SELECT 
     c.Name,
     a.ActivityType,
-    ROUND(
-        CAST(
-            AVG(CAST(
-                (SELECT COUNT(*) 
-                 FROM ScheduleMember sm 
-                 WHERE sm.ScheduleID = s.ScheduleID)
-            AS NUMERIC))
-        AS NUMERIC), 
-        2
-    ) AS AvgParticipation
+    ROUND(AVG(
+        (SELECT COUNT(*) FROM ScheduleMember sm WHERE sm.ScheduleID = s.ScheduleID)::numeric
+    ), 2) AS AvgParticipation
 FROM Country c
 JOIN FitnessCenter fc ON c.CountryID = fc.CountryID
 JOIN Trainer t ON fc.FitnessCenterID = t.FitnessCenterID
@@ -91,7 +84,7 @@ GROUP BY c.Name, a.ActivityType;
 -- 8
 SELECT 
     c.Name AS CountryName,
-    COUNT(sm.MemberID) as ParticipationCount
+    COUNT(*) as ParticipationCount
 FROM Country c
 JOIN FitnessCenter fc ON c.CountryID = fc.CountryID
 JOIN Trainer t ON fc.FitnessCenterID = t.FitnessCenterID
@@ -108,13 +101,13 @@ LIMIT 10;
 SELECT 
     a.ActivityType,
     s.StartTime,
-    CASE 
-        WHEN (SELECT COUNT(*) FROM ScheduleMember sm WHERE sm.ScheduleID = s.ScheduleID) 
-             >= a.MaxParticipants THEN 'Popunjeno'
-        ELSE 'Ima mjesta'
+    CASE WHEN COUNT(sm.MemberID) >= a.MaxParticipants THEN 'Popunjeno'
+         ELSE 'Ima mjesta'
     END AS Status
 FROM Activity a
-JOIN Schedule s ON a.ActivityID = s.ActivityID;
+JOIN Schedule s ON a.ActivityID = s.ActivityID
+LEFT JOIN ScheduleMember sm ON s.ScheduleID = sm.ScheduleID
+GROUP BY a.ActivityType, s.StartTime, a.MaxParticipants;
 
 -- 10
 SELECT 
