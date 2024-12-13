@@ -7,6 +7,6 @@ Implementacija baze za aplikaciju koja omogućuje evidenciju aktivnosti i općen
 
 ## Značajke projekta
 
-- stvaranje tablica i dodavanje trigerra unutar `tables.sql`
+- stvaranje tablica i dodavanje triggera unutar `tables.sql`
 - zadani upiti unutar `queries.sql`
 - folder _seeds_ sadrži mockane podatke za svaku realiziranu tablicu
